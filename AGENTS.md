@@ -96,8 +96,9 @@ verificata sulla fonte primaria.
 TO_VERIFY
 Informazione incompleta o non sufficientemente verificata.
 
-Una voce TO_VERIFY non deve essere presentata come opportunità
-verificata LIVE.
+Una voce con verification: TO_VERIFY o liveStatus: TO_VERIFY non deve essere
+presentata come opportunità verificata LIVE. applicationStatus è indipendente:
+una call ufficialmente aperta può essere LIVE con applicationStatus: TO_VERIFY.
 
 
 ==================================================
@@ -116,6 +117,13 @@ almeno una delle seguenti condizioni:
 - deadline futura verificata;
 - pagina ufficiale dichiara esplicitamente che la call è aperta;
 - email ufficiale indicata per l'invio delle candidature.
+
+Se la call è verificata come aperta sulla fonte ufficiale ma il modulo non è
+verificabile: liveStatus può restare LIVE, applicationStatus deve essere
+TO_VERIFY e applicationUrl deve essere null. Un login accessibile non prova
+che il modulo dietro autenticazione sia accessibile o accetti candidature.
+Un canale EMAIL ufficiale verificato può avere applicationStatus: OPEN e
+applicationUrl: null: l'assenza di un modulo web non è un'anomalia.
 
 Se il form è chiuso:
 CLOSED.
@@ -389,6 +397,14 @@ Esempi:
 
 "Vacancy riaperta."
 
+CHANGED nel report corrisponde a cambiamenti sostanziali (UPDATED): deadline,
+stato, apertura/chiusura, application URL, requisiti, materiali richiesti,
+fee, funding/compenso, località, employment type o informazioni operative.
+Non classificare CHANGED per soli lastVerifiedAt, sourceCheckedAt,
+generatedAt, displayOrder o altri metadati tecnici.
+L’arricchimento iniziale delle 14 schede può restare CHANGED nel report del
+17 settembre 2026; dalle esecuzioni successive applicare questa distinzione.
+
 
 ==================================================
 13. isNew
@@ -614,6 +630,15 @@ Prima di salvare applicationUrl verifica:
 - se serve login, indicalo;
 - se il form è chiuso, non classificare LIVE.
 
+Non considerare valido un applicationUrl che punta soltanto al dominio base
+di un servizio. Esempi non validi: https://forms.gle/ e
+https://docs.google.com/forms/. Il link deve identificare uno specifico modulo.
+Se incompleto, rotto o restituisce errore, non salvarlo come applicationUrl;
+cercare il link completo sulla fonte ufficiale. Se non disponibile o se il
+modulo non è verificabile, usare applicationUrl: null e
+applicationStatus: TO_VERIFY, segnalando il problema nel report.
+Non tentare login né aggirare blocchi o permessi.
+
 Non effettuare materialmente una candidatura.
 
 
@@ -645,7 +670,12 @@ requiresAccount: null.
 20. APPLICATION STEPS
 ==================================================
 
-Quando possibile genera applicationSteps.
+Durante le esecuzioni automatiche non effettuare login e non inserire
+credenziali. Se l’application richiede autenticazione: requiresAccount: true.
+Descrivere il login come passaggio che dovrà eseguire l’utente.
+
+Quando possibile genera applicationSteps, intesi esclusivamente come
+istruzioni per l’utente, non azioni da eseguire automaticamente.
 
 Esempio:
 
@@ -910,6 +940,12 @@ Esempio:
 30. APPLICATION READINESS
 ==================================================
 
+La disponibilità dei materiali personali non determina se la call è aperta.
+Non usare APPLY NOW = NO soltanto perché i materiali personali sono N/V.
+Per MMCA e ogni altra call aperta mostrare APPLICATION OPEN: YES anche con
+MATERIAL READINESS: NOT_VERIFIED; verificare separatamente APPLICATION ACCESS.
+Le valutazioni personali restano nel layer privato, non nel feed pubblico.
+
 applicationReadiness:
 
 READY
@@ -982,8 +1018,10 @@ Priorità:   5/5
 
 Poi mostra:
 
-APPLY NOW
-YES / NO
+APPLICATION OPEN: YES / NO / TO_VERIFY
+APPLICATION ACCESS: YES / NO / TO_VERIFY
+MATERIAL READINESS: READY / PARTIAL / BLOCKED / NOT_VERIFIED
+APPLY PRIORITY: URGENT / HIGH / NORMAL / LOW
 
 Deadline:
 ...
@@ -1020,7 +1058,13 @@ I punteggi devono essere spiegabili.
 
 Per ogni opportunità prioritaria mostra:
 
-APPLY NOW
+APPLICATION OPEN
+
+APPLICATION ACCESS
+
+MATERIAL READINESS
+
+APPLY PRIORITY
 
 deadline
 
@@ -1149,7 +1193,9 @@ ART
 
 CLOSED
 
-TO_VERIFY
+LIVE TO_VERIFY
+
+APPLICATION TO_VERIFY
 
 TOP PRIORITIES
 
@@ -1169,12 +1215,18 @@ Mostra sempre:
 - già presenti ancora valide;
 - WORK LIVE;
 - ART LIVE;
+- LIVE (liveStatus: LIVE);
+- LIVE TO_VERIFY (liveStatus: TO_VERIFY);
+- APPLICATION TO_VERIFY (applicationStatus: TO_VERIFY, anche per call LIVE);
 - CLOSED;
-- TO_VERIFY;
 - deadline entro 3 giorni;
 - deadline entro 7 giorni;
 - application pronte;
 - application bloccate.
+
+Non presentare un generico TO_VERIFY = 0 se esistono application non verificate.
+Per ogni scheda mostrare separatamente APPLICATION OPEN, APPLICATION ACCESS,
+MATERIAL READINESS e APPLY PRIORITY.
 
 
 ==================================================
@@ -1384,3 +1436,24 @@ Richiede preparazione moderata.
 
 HIGH
 Richiede preparazione significativa.
+
+APPLICATION OPEN
+YES: call ufficialmente aperta; NO: chiusa; TO_VERIFY: apertura non verificata.
+
+APPLICATION ACCESS
+YES: modulo accessibile verificato o canale email ufficiale verificato.
+NO: accesso verificato come chiuso. TO_VERIFY: accesso al modulo non verificato,
+anche se è raggiungibile una pagina di login. Non effettuare login automatici.
+
+MATERIAL READINESS
+READY / PARTIAL / BLOCKED / NOT_VERIFIED: prontezza dei materiali personali,
+indipendente dall’apertura e dall’accessibilità della candidatura.
+
+APPLY PRIORITY
+URGENT: azione urgente per scadenza ravvicinata.
+HIGH: priorità operativa alta.
+NORMAL: priorità ordinaria.
+LOW: priorità bassa.
+
+LIVE TO_VERIFY e APPLICATION TO_VERIFY sono conteggi distinti e possono
+sovrapporsi: non sommarli come categorie mutuamente esclusive.
