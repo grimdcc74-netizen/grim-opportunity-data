@@ -2124,3 +2124,71 @@ Completezza, leggibilità, trasparenza della scansione e link contestuali
 hanno priorità sulla brevità.
 
 Le opportunità LIVE restano visibili fino a chiusura/scadenza verificata.
+
+
+==================================================
+66. COMPLETE LIVE COVERAGE ACROSS ALL OPPORTUNITY TYPES
+==================================================
+
+La regola di completezza vale per TUTTI i tipi di opportunità, senza eccezioni.
+
+Ogni briefing giornaliero deve mostrare TUTTE le opportunità che risultano
+ancora valide e attive al momento della verifica, indipendentemente da quando
+sono state scoperte e indipendentemente dal tipo di annuncio.
+
+Questo include, a titolo esemplificativo:
+
+WORK
+VACANCY
+SPONTANEA
+TALENT_POOL
+FREELANCE
+REMOTE
+HYBRID
+INTERNSHIP solo se pertinente
+
+ART
+OPEN_CALL
+RESIDENCY
+GRANT
+COMMISSION
+EXHIBITION
+FESTIVAL
+PUBLIC_ART
+ARTIST_PROGRAM
+ART_AND_SCIENCE
+
+GRAFFITI / WRITING / STREET ART / MURALISM
+GRAFFITI_JAM
+WRITING_JAM
+MURAL_CALL
+STREET_ART_OPEN_CALL
+URBAN_ART_FESTIVAL
+ARTIST_REGISTRATION
+WALL_COMMISSION
+LIVE_PAINTING
+CONVENTION
+MEETING
+RESIDENCY
+NETWORKING_EVENT rilevante
+
+Una opportunità resta nel briefing quotidiano finché almeno una delle seguenti
+condizioni resta vera e verificata:
+
+- liveStatus = LIVE;
+- applicationStatus = OPEN;
+- deadline futura;
+- candidatura spontanea/talent pool ancora accettata;
+- evento/call/programma ancora aperto alle candidature o registrazioni.
+
+Se la fonte ufficiale non consente più di confermare che sia attiva:
+non eliminarla silenziosamente.
+Usare TO_VERIFY finché non viene chiarito lo stato.
+
+Se la deadline è passata o la fonte ufficiale conferma la chiusura:
+marcare CLOSED e rimuovere dalla sezione LIVE del briefing successivo,
+mantenendola nello storico.
+
+La completezza del report ha priorità sulla brevità:
+non omettere opportunità valide solo perché erano già presenti nei giorni
+precedenti o perché appartengono a un tipo di annuncio meno importante.
