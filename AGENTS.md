@@ -1457,3 +1457,670 @@ LOW: priorità bassa.
 
 LIVE TO_VERIFY e APPLICATION TO_VERIFY sono conteggi distinti e possono
 sovrapporsi: non sommarli come categorie mutuamente esclusive.
+
+
+==================================================
+45. GRIM OPPORTUNITY HUB V3 - FULL DAILY REPORT OVERRIDES
+==================================================
+
+Questa sezione definisce il formato operativo V3 del briefing giornaliero.
+
+In caso di conflitto con sezioni precedenti di AGENTS.md, questa sezione
+prevale, in particolare su ordinamento del report, classificazione urgenza,
+completezza delle opportunità mostrate e profondità di scansione.
+
+Il briefing giornaliero deve essere AUTOSUFFICIENTE.
+
+Non assumere mai che l'utente abbia letto o ricordi i briefing precedenti.
+
+TUTTE le opportunità ancora LIVE devono comparire nel briefing di ogni giorno,
+anche se scoperte giorni o settimane prima.
+
+Una opportunità può essere più sintetica se già nota, ma non deve sparire
+finché resta LIVE / OPEN e non è scaduta o verificata CLOSED.
+
+
+==================================================
+46. MACRO-AREE DEL REPORT
+==================================================
+
+Il report quotidiano deve essere diviso chiaramente in:
+
+00. EXECUTIVE SUMMARY
+01. WORK - MILANO / LOMBARDIA
+02. WORK - ITALIA
+03. WORK - INTERNATIONAL / REMOTE
+04. ART - ITALIA
+05. ART - EUROPA
+06. ART - INTERNATIONAL
+07. GRAFFITI / WRITING / STREET ART / MURALISM - ITALIA
+08. GRAFFITI / WRITING / STREET ART / MURALISM - EUROPA
+09. GRAFFITI / WRITING / STREET ART / MURALISM - INTERNATIONAL
+10. OPEN CALL / RESIDENCIES / GRANTS / COMMISSIONS
+11. DEADLINES
+12. SCAN LOG COMPLETO
+13. CHANGES SINCE YESTERDAY
+14. LEGENDA
+
+GRAFFITI / WRITING / STREET ART / MURALISM è una macro-area autonoma
+e non deve essere nascosta dentro ART.
+
+Per nuove opportunità specificamente graffiti/writing/muralismo è consentito:
+area: "graffiti"
+
+Le opportunità storiche già classificate ART non devono essere riclassificate
+solo per ragioni cosmetiche, salvo revisione esplicita e sicura.
+
+
+==================================================
+47. DATE DA MOSTRARE SEMPRE
+==================================================
+
+Per ogni opportunità mostra distintamente:
+
+DATA PUBBLICAZIONE UFFICIALE
+publishedAt, se esposta dalla fonte.
+
+APERTURA CANDIDATURE
+applicationOpenDate, se ufficialmente disponibile.
+
+PRESENTE NEL RADAR DAL
+firstSeen.
+
+ULTIMA VERIFICA
+lastVerifiedAt.
+
+DEADLINE
+deadline originale.
+
+DEADLINE ORA ITALIANA
+deadlineEuropeRome, quando verificabile.
+
+GIORNI MANCANTI
+daysRemaining.
+
+Non confondere mai firstSeen con publishedAt o applicationOpenDate.
+
+Se una data ufficiale non è esposta, scrivere chiaramente:
+"non esposta dalla fonte".
+
+applicationOpenDate deve essere aggiunto allo schema pubblico
+e deve restare null quando non verificabile.
+
+
+==================================================
+48. URGENZA V3
+==================================================
+
+La classificazione urgenza V3 sostituisce la classificazione precedente.
+
+CRITICAL
+0-3 giorni alla deadline.
+
+URGENT
+4-7 giorni.
+
+SOON
+8-14 giorni.
+
+ACTIVE
+15-30 giorni.
+
+LONG_RANGE
+oltre 30 giorni.
+
+NO_DEADLINE
+talent pool, candidatura spontanea o opportunità permanente.
+
+Una opportunità NO_DEADLINE con fit molto alto resta visibile,
+ma non deve superare automaticamente una opportunità equivalente
+con deadline imminente.
+
+
+==================================================
+49. ORDINAMENTO PER PRIORITÀ REALE
+==================================================
+
+Dentro ogni sezione ordina considerando insieme:
+
+1. fitScore / compatibilità;
+2. priorityScore / importanza operativa;
+3. deadline;
+4. daysRemaining;
+5. autorevolezza dell'organizzazione;
+6. compensation / grant / funding;
+7. applicationReadiness;
+8. eventuali dealBreakers.
+
+La priorità deve essere spiegabile.
+
+Una opportunità scoperta settimane prima può essere la priorità numero 1
+se oggi è più importante, più compatibile o più vicina alla deadline.
+
+NEW non prevale automaticamente su una opportunità già nota.
+
+
+==================================================
+50. SCHEDA COMPLETA DI OGNI OPPORTUNITÀ
+==================================================
+
+Ogni opportunità deve essere leggibile senza cercare informazioni altrove.
+
+Mostrare, quando disponibili:
+
+TITOLO
+ORGANIZZAZIONE
+
+Profilo: punteggio 1-5 a pallini
+Materiali: punteggio 1-5 a pallini oppure N/V
+Priorità: 1-5
+Prontezza: READY / PARTIAL / BLOCKED / NOT_VERIFIED
+
+Stato:
+LIVE / TO_VERIFY / CLOSED
+
+Tipo:
+VACANCY / SPONTANEA / TALENT_POOL / OPEN_CALL / RESIDENCY / GRANT /
+COMMISSION / FESTIVAL / GRAFFITI_JAM / MURAL_CALL / OTHER
+
+Località
+Remote policy
+Data pubblicazione
+Apertura candidature
+Presente nel radar dal
+Ultima verifica
+Deadline
+Deadline ora italiana
+Giorni mancanti
+Urgenza
+
+Sintesi breve ma sufficiente
+Perché è compatibile
+Gap
+Deal breaker
+
+Materiali richiesti
+Formati
+Fee
+Compenso / Grant / Funding
+
+Metodo candidatura
+Account necessario
+
+Contatto ufficiale
+Email ufficiale
+Telefono ufficiale
+
+NEXT ACTION concreta.
+
+
+==================================================
+51. LINK DENTRO LA SCHEDA
+==================================================
+
+I link devono stare SEMPRE dentro la scheda della relativa opportunità.
+
+Mostrare, quando disponibili:
+
+FONTE UFFICIALE:
+sourceUrl
+
+APPLY / APPLICATION:
+applicationUrl oppure metodo EMAIL se la candidatura avviene via email.
+
+CONTATTI / FAQ:
+questionsOrContactUrl
+
+Non creare una lista di link separata dal corpo del report.
+
+Non costringere l'utente a cercare il link in un'altra sezione.
+
+
+==================================================
+52. OPPORTUNITÀ GIÀ PRESENTI
+==================================================
+
+Una opportunità già presente e ancora LIVE deve continuare a comparire
+ogni giorno.
+
+Deve mostrare almeno:
+
+- title;
+- org;
+- fit score;
+- materials score o N/V;
+- priority;
+- firstSeen;
+- publishedAt;
+- applicationOpenDate;
+- lastVerifiedAt;
+- deadline;
+- daysRemaining;
+- urgency;
+- location;
+- liveStatus;
+- applicationStatus;
+- sourceUrl;
+- applicationUrl o metodo di candidatura;
+- materials;
+- fee;
+- funding / compensation;
+- contactEmail;
+- contactPhone;
+- NEXT ACTION.
+
+Può avere una sintesi più corta delle NEW.
+
+VIETATO usare formulazioni come:
+"rimane nello storico"
+oppure
+"non la duplico perché era nel briefing precedente".
+
+Lo storico non sostituisce il briefing corrente.
+
+
+==================================================
+53. NEW E CHANGED
+==================================================
+
+NEW identifica soltanto opportunità entrate nel radar dall'ultimo report.
+
+Le NEW devono comparire anche nella loro sezione tematica/geografica.
+
+CHANGED deve essere una informazione aggiuntiva e non deve sostituire
+la scheda completa dell'opportunità.
+
+La sezione CHANGES SINCE YESTERDAY viene DOPO il report completo e mostra:
+NEW
+UPDATED
+CLOSED
+REOPENED
+DEADLINE_CHANGED
+APPLICATION_CHANGED
+
+
+==================================================
+54. WORK - MILANO / LOMBARDIA: SCANSIONE OBBLIGATORIA
+==================================================
+
+Milano / Lombardia ha priorità speciale.
+
+Ogni giorno mostra:
+
+A. tutte le opportunità LIVE pertinenti;
+B. tutte le candidature spontanee pertinenti;
+C. tutti i talent pool pertinenti;
+D. l'elenco completo degli studi realmente controllati quel giorno.
+
+Per ogni studio controllato mostra:
+
+STUDIO
+STATUS SCAN
+RISULTATO
+ULTIMA VERIFICA
+URL ufficiale quando disponibile.
+
+Status scan consentiti:
+
+SCANNED - OPPORTUNITY_FOUND
+SCANNED - NO_VACANCY
+SCANNED - NO_MATCH
+TO_VERIFY
+ACCESS_ERROR
+LOGIN_REQUIRED
+
+Non usare frasi generiche come:
+"sono state controllate altre realtà".
+
+Mostra i nomi effettivamente scansionati.
+
+Mantieni priorità speciale su EDI, 22DOGS, BAND VFX e Proxima Milano,
+ma amplia quotidianamente la scansione alle altre post-produzioni,
+VFX house, CGI studio, finishing/post e studi creativi pertinenti
+di Milano e Lombardia.
+
+
+==================================================
+55. WORK - ITALIA
+==================================================
+
+Scansiona quotidianamente anche studi italiani fuori Milano.
+
+Priorità disciplinari:
+
+VFX
+CGI
+AI / Generative
+Digital Matte Painting
+Concept Art
+Visual Development
+Character Design
+Storyboard
+Art Department
+CG Supervision
+VFX Supervision
+Advertising Post-production
+
+Non limitare la ricerca alle aziende già presenti nel feed.
+
+
+==================================================
+56. WORK - INTERNATIONAL / REMOTE
+==================================================
+
+Effettua una ricerca internazionale quotidiana specifica per:
+
+REMOTE WORLDWIDE
+REMOTE EUROPE
+FREELANCE REMOTE
+HYBRID EUROPE
+
+Ruoli prioritari:
+
+AI Creative
+Generative AI
+VFX
+CGI
+Digital Matte Painting
+Environment
+Concept Art
+Character Design
+Storyboard
+Visual Development
+Art Department
+CG Supervisor
+VFX Supervisor
+
+Includi talent pool e freelance pool rilevanti.
+
+Non limitare la ricerca internazionale alle aziende già note.
+
+
+==================================================
+57. ART - SCANSIONE AMPIA
+==================================================
+
+ART non deve essere limitata a 2 nuove opportunità o a una top 5.
+
+Scansiona un numero ampio di fonti e mostra nel report tutte le opportunità
+LIVE pertinenti.
+
+Dividi sempre:
+
+ART - ITALIA
+ART - EUROPA
+ART - INTERNATIONAL
+
+Categorie da monitorare:
+
+OPEN CALL
+RESIDENCIES
+GRANTS
+COMMISSIONS
+PUBLIC ART
+PHOTOGRAPHY
+VIDEO
+MEDIA ART
+DIGITAL ART
+AI ART
+CGI ART
+INSTALLATION
+PRINTMAKING
+ENGRAVING
+PAINTING
+SCULPTURE
+SITE-SPECIFIC
+ART & SCIENCE
+COMMUNITY ART
+FESTIVALS
+EXHIBITIONS
+
+Non limitarti alle novità del giorno.
+
+
+==================================================
+58. GRAFFITI / WRITING / STREET ART / MURALISM
+==================================================
+
+Questa è una macro-area autonoma.
+
+Dividi sempre:
+
+ITALIA
+EUROPA
+INTERNATIONAL
+
+Ricerca esplicitamente anche con query equivalenti a:
+
+graffiti writer application
+graffiti jam
+writing jam
+style writing
+mural open call
+street art open call
+urban art festival application
+artist wall application
+mural commission
+public art mural
+Meeting of Styles application
+live painting call
+street art residency
+graffiti festival
+urban art residency
+mural festival artist application
+
+Includi anche:
+
+- jam;
+- festival;
+- meeting;
+- convention;
+- wall commission;
+- artist registration;
+- mural project;
+- live painting;
+- eventi rilevanti di networking;
+
+anche senza grant economico quando hanno reale valore per writing,
+muralismo, street art o networking professionale.
+
+
+==================================================
+59. PROFONDITÀ MINIMA DELLA SCANSIONE
+==================================================
+
+L'obiettivo non è produrre soltanto 5 risultati.
+
+L'obiettivo è effettuare una ricerca ampia PRIMA della selezione.
+
+Target indicativi per ogni vera esecuzione giornaliera:
+
+WORK MILANO / ITALIA:
+25-40 fonti o studi controllati.
+
+WORK INTERNATIONAL / REMOTE:
+25-40 fonti o studi / ATS controllati.
+
+ART:
+30-50 fonti / istituzioni / call / database controllati.
+
+GRAFFITI / WRITING / MURAL:
+15-30 fonti / festival / reti / organizzazioni controllati.
+
+Questi target misurano FONTI SCANSIONATE, non risultati artificiali.
+
+Non inventare opportunità per raggiungere una quota.
+
+Se una fonte non è accessibile, registrala nel scan log.
+
+
+==================================================
+60. SCAN LOG OBBLIGATORIO
+==================================================
+
+Ogni report deve contenere un SCAN LOG completo.
+
+Mostra:
+
+FONTI WORK MILANO / ITALIA SCANSIONATE
+numero totale + elenco completo dei nomi realmente controllati.
+
+FONTI WORK INTERNATIONAL / REMOTE SCANSIONATE
+numero totale + elenco completo.
+
+FONTI ART SCANSIONATE
+numero totale + elenco completo.
+
+FONTI GRAFFITI SCANSIONATE
+numero totale + elenco completo.
+
+Per ogni fonte registra almeno:
+
+name
+url
+category
+status
+result
+lastCheckedAt
+
+status / result devono distinguere:
+
+OPPORTUNITY_FOUND
+NO_VACANCY
+NO_MATCH
+TO_VERIFY
+ACCESS_ERROR
+LOGIN_REQUIRED
+
+Il feed pubblico deve mantenere un oggetto top-level scanLog aggiornato
+all'ultima esecuzione, senza dati privati.
+
+
+==================================================
+61. EXECUTIVE SUMMARY V3
+==================================================
+
+All'inizio del report mostra:
+
+REPORT DATE
+TOTAL LIVE
+WORK LIVE
+ART LIVE
+GRAFFITI LIVE
+NEW
+CHANGED
+CLOSED
+TO_VERIFY
+CRITICAL DEADLINES
+URGENT DEADLINES
+APPLICATION OPEN
+APPLICATION TO_VERIFY
+
+Poi mostra:
+
+TOP 10 PRIORITIES TODAY
+
+La TOP 10 deve includere sia opportunità nuove sia già presenti.
+
+
+==================================================
+62. TOP 10 PRIORITIES TODAY
+==================================================
+
+Per ogni voce mostra almeno:
+
+1. titolo;
+2. organizzazione;
+3. area;
+4. fitScore / score;
+5. priorityScore quando disponibile;
+6. firstSeen;
+7. deadline;
+8. daysRemaining;
+9. urgency;
+10. NEXT ACTION;
+11. applicationUrl o metodo di candidatura;
+12. sourceUrl.
+
+Una opportunità vecchia ma ancora LIVE può essere prima in classifica.
+
+
+==================================================
+63. INSTAGRAM PUBLIC DISCOVERY
+==================================================
+
+Monitora anche informazioni PUBBLICAMENTE ACCESSIBILI sul web
+collegate ai profili:
+
+https://www.instagram.com/grim_dcc/
+https://www.instagram.com/grim.dcc/
+https://www.instagram.com/grimdcc.ai/
+https://www.instagram.com/grim.dcc_photo/
+
+Senza login.
+
+Usa esclusivamente contenuti pubblicamente visibili o indicizzati.
+
+Cerca opportunità, organizzazioni, festival, account pubblici,
+open call, graffiti jam, mural project, residenze e collaborazioni
+pubblicamente collegate a questi profili o alla loro rete visibile.
+
+NON:
+- accedere ai DM;
+- tentare accesso a contenuti privati;
+- effettuare login;
+- aggirare limitazioni di Instagram;
+- dichiarare completa la rete di contatti/follower se non è pubblicamente visibile.
+
+Instagram è una fonte di DISCOVERY, non sostituisce la verifica
+sulla fonte ufficiale dell'opportunità.
+
+
+==================================================
+64. SCHEMA V3
+==================================================
+
+Lo schema pubblico passa a:
+
+schemaVersion: "3.0"
+
+Ogni opportunità deve includere anche:
+
+applicationOpenDate
+
+quando verificabile.
+
+Il feed pubblico deve inoltre supportare top-level:
+
+scanLog
+
+con struttura minima:
+
+lastRunAt
+workItaly
+workInternationalRemote
+art
+graffiti
+
+Ogni array scanLog contiene record pubblici delle fonti realmente scansionate
+con name, url, category, status, result, lastCheckedAt.
+
+La history futura deve includere anche activeGraffiti quando pertinente.
+
+Non retro-modificare dati storici se il valore non è ricostruibile con certezza.
+
+
+==================================================
+65. REGOLA FINALE V3
+==================================================
+
+Il briefing di oggi deve bastare da solo per conoscere l'intera situazione
+corrente.
+
+L'utente NON deve aprire briefing precedenti per sapere quali opportunità
+sono ancora attive.
+
+Completezza, leggibilità, trasparenza della scansione e link contestuali
+hanno priorità sulla brevità.
+
+Le opportunità LIVE restano visibili fino a chiusura/scadenza verificata.
