@@ -1,6 +1,6 @@
 {
   "schemaVersion": "3.0",
-  "generatedAt": "2026-10-07T07:39:01+02:00",
+  "generatedAt": "2026-10-08T07:52:22+02:00",
   "source": "GRIM Opportunity Hub verified feed",
   "opportunities": [
     {
@@ -15,7 +15,7 @@
       "publishedAt": null,
       "publishedDateSource": "Non esposta nella pagina ufficiale",
       "firstSeen": "2026-09-16",
-      "lastVerifiedAt": "2026-10-06T08:16:10+02:00",
+      "lastVerifiedAt": "2026-10-08T07:52:22+02:00",
       "liveStatus": "LIVE",
       "tag": "VACANCY",
       "isNew": false,
@@ -36,7 +36,7 @@
       "displayOrder": 1,
       "country": "Italia",
       "city": "Milano",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-17T11:08:02+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -93,8 +93,8 @@
       "publishedAt": null,
       "publishedDateSource": "Non esposta nella pagina ufficiale",
       "firstSeen": "2026-09-16",
-      "lastVerifiedAt": "2026-10-07T07:39:01+02:00",
-      "liveStatus": "LIVE",
+      "lastVerifiedAt": "2026-10-08T07:52:22+02:00",
+      "liveStatus": "CLOSED",
       "tag": "VACANCY",
       "isNew": false,
       "summary": "Produzione e integrazione di asset generativi nei VFX, con attenzione a qualità e coerenza visiva.",
@@ -113,28 +113,28 @@
         "CV",
         "Link al sito o reel"
       ],
-      "directApplyUrl": "https://22dogstudio.com/careers/ai-creative-technologist",
+      "directApplyUrl": null,
       "verification": "PRIMARY",
       "displayOrder": 2,
       "country": null,
       "city": null,
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
-      "lastChangedAt": "2026-09-17T11:08:02+02:00",
-      "applicationStatus": "OPEN",
-      "changeType": "UNCHANGED",
-      "changeSummary": null,
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
+      "lastChangedAt": "2026-10-08T07:52:22+02:00",
+      "applicationStatus": "CLOSED",
+      "changeType": "CLOSED",
+      "changeSummary": "La pagina specifica della vacancy restituisce 404 e la career page generale non espone più il ruolo.",
       "sourceType": "EMPLOYER",
       "sourceUrl": "https://22dogstudio.com/careers/ai-creative-technologist",
       "canonicalUrl": "https://22dogstudio.com/careers/ai-creative-technologist",
-      "applicationUrl": "https://22dogstudio.com/careers/ai-creative-technologist",
+      "applicationUrl": null,
       "applicationMethod": "FORM",
       "applicationPortal": null,
       "requiresAccount": false,
       "deadline": null,
       "deadlineTimezone": null,
       "deadlineEuropeRome": null,
-      "daysRemaining": null,
-      "urgency": "NO_DEADLINE",
+      "daysRemaining": 0,
+      "urgency": "CLOSED",
       "requiredLanguageLevel": null,
       "materialsDeadline": null,
       "applicationFeeAmount": null,
@@ -149,7 +149,7 @@
       "contactEmail": null,
       "contactPhone": null,
       "questionsOrContactUrl": null,
-      "verificationNotes": "La pagina ufficiale dichiara la ricerca aperta e contiene il form con caricamento CV, link sito/reel e pulsante Apply. Nessun login richiesto per accedere al form.",
+      "verificationNotes": "Chiusura verificata l’8 ottobre 2026: endpoint ufficiale 404 e titolo assente dalla career page ufficiale. Il Freelance Talent Pool 22DOGS resta separatamente aperto.",
       "applicationEffort": "LOW",
       "applicationSteps": [
         "Compilare il form nella pagina dell'annuncio.",
@@ -178,7 +178,7 @@
       "publishedAt": null,
       "publishedDateSource": "Non esposta nella pagina ufficiale",
       "firstSeen": "2026-09-16",
-      "lastVerifiedAt": "2026-10-01T07:40:14+02:00",
+      "lastVerifiedAt": "2026-10-08T07:52:22+02:00",
       "liveStatus": "LIVE",
       "tag": "TALENT_POOL",
       "isNew": false,
@@ -205,7 +205,7 @@
       "displayOrder": 3,
       "country": null,
       "city": null,
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-17T11:08:02+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -288,7 +288,7 @@
       "displayOrder": 4,
       "country": "Italia",
       "city": "Milano",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-17T11:08:02+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -370,7 +370,7 @@
       "displayOrder": 5,
       "country": "Italia",
       "city": "Milano",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-17T11:08:02+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -451,7 +451,7 @@
       "displayOrder": 6,
       "country": "Italia",
       "city": "Milano",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-17T11:08:02+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -528,7 +528,7 @@
       "displayOrder": 7,
       "country": "Germania",
       "city": "Ostfildern",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-19T11:38:33+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -618,7 +618,7 @@
       "displayOrder": 8,
       "country": "Canada",
       "city": "Vancouver",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-25T07:40:59+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -709,7 +709,7 @@
       "displayOrder": 9,
       "country": "Francia",
       "city": "Paris",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-19T11:38:33+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -781,7 +781,7 @@
       "displayOrder": 10,
       "country": "Regno Unito",
       "city": "London",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-10-03T07:43:00+02:00",
       "applicationStatus": "CLOSED",
       "changeType": "UNCHANGED",
@@ -856,7 +856,7 @@
       "displayOrder": 15,
       "country": "India",
       "city": "Mumbai / Chennai / Bengaluru",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-24T08:13:38+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -932,7 +932,7 @@
       "displayOrder": 16,
       "country": "India",
       "city": "Mumbai",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-24T08:13:38+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -1003,7 +1003,7 @@
       "displayOrder": 17,
       "country": "Italia / Croazia",
       "city": "Milano / Pula",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-19T16:39:00+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -1077,7 +1077,7 @@
       "displayOrder": 18,
       "country": "Belgio / UE",
       "city": null,
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-19T16:39:00+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -1145,7 +1145,7 @@
       "displayOrder": 19,
       "country": "Canada",
       "city": "Vancouver",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-19T16:39:00+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -1219,7 +1219,7 @@
       "displayOrder": 20,
       "country": "India",
       "city": "Mumbai",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-24T08:13:38+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -1283,7 +1283,7 @@
       "applicationOpenDate": null,
       "firstSeen": "2026-09-29",
       "lastVerifiedAt": "2026-09-29T07:33:17+02:00",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-29T07:33:17+02:00",
       "liveStatus": "LIVE",
       "applicationStatus": "OPEN",
@@ -1390,7 +1390,7 @@
       "displayOrder": 22,
       "country": "India",
       "city": "Mumbai",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-19T16:39:00+02:00",
       "applicationStatus": "TO_VERIFY",
       "changeType": "UNCHANGED",
@@ -1476,7 +1476,7 @@
       "displayOrder": 23,
       "country": "Italia",
       "city": "Milano",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-17T11:08:02+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -1554,7 +1554,7 @@
       "displayOrder": 24,
       "country": "Regno Unito",
       "city": "Londra",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-17T11:08:02+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -1632,7 +1632,7 @@
       "displayOrder": 25,
       "country": "Stati Uniti",
       "city": "Chicago",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-19T11:38:33+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -1707,7 +1707,7 @@
       "displayOrder": 26,
       "country": "Italia",
       "city": "Roma",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-19T16:39:00+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -1779,7 +1779,7 @@
       "displayOrder": 27,
       "country": "Italia",
       "city": "Milano",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-19T16:39:00+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -1850,7 +1850,7 @@
       "displayOrder": 28,
       "country": "Regno Unito / Canada",
       "city": null,
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-19T16:39:00+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -1920,7 +1920,7 @@
       "displayOrder": 29,
       "country": "Italia",
       "city": "Torino",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-19T16:39:00+02:00",
       "applicationStatus": "TO_VERIFY",
       "changeType": "UNCHANGED",
@@ -1993,7 +1993,7 @@
       "displayOrder": 30,
       "country": "Spagna / Regno Unito",
       "city": "Barcellona / Londra",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-19T16:39:00+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -2071,7 +2071,7 @@
       "displayOrder": 31,
       "country": "Regno Unito",
       "city": "Londra",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-19T16:39:00+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -2150,7 +2150,7 @@
       "displayOrder": 32,
       "country": "Italia",
       "city": "Milano",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-17T11:08:02+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -2231,7 +2231,7 @@
       "displayOrder": 33,
       "country": "Italia",
       "city": "Milano",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-17T11:08:02+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -2289,7 +2289,7 @@
       "publishedAt": null,
       "publishedDateSource": "Non esposta nella pagina ufficiale",
       "firstSeen": "2026-09-17",
-      "lastVerifiedAt": "2026-09-24T08:13:38+02:00",
+      "lastVerifiedAt": "2026-10-08T07:52:22+02:00",
       "liveStatus": "LIVE",
       "tag": "VACANCY",
       "isNew": false,
@@ -2309,7 +2309,7 @@
       "displayOrder": 34,
       "country": "Canada",
       "city": "Toronto",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-17T11:08:02+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -2388,7 +2388,7 @@
       "displayOrder": 35,
       "country": "Germania",
       "city": "Ostfildern",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-19T11:38:33+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -2464,7 +2464,7 @@
       "displayOrder": 36,
       "country": "Germania",
       "city": "Ostfildern",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-19T11:38:33+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -2538,7 +2538,7 @@
       "displayOrder": 37,
       "country": "Italia",
       "city": "Torino",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-19T16:39:00+02:00",
       "applicationStatus": "TO_VERIFY",
       "changeType": "UNCHANGED",
@@ -2608,7 +2608,7 @@
       "displayOrder": 38,
       "country": "Italia",
       "city": "Torino",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-19T16:39:00+02:00",
       "applicationStatus": "TO_VERIFY",
       "changeType": "UNCHANGED",
@@ -2664,7 +2664,7 @@
       "applicationOpenDate": null,
       "firstSeen": "2026-09-24",
       "lastVerifiedAt": "2026-09-24T08:13:38+02:00",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-24T08:13:38+02:00",
       "liveStatus": "TO_VERIFY",
       "applicationStatus": "OPEN",
@@ -2766,7 +2766,7 @@
       "displayOrder": 40,
       "country": "Italia",
       "city": "Milano",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-24T08:13:38+02:00",
       "applicationStatus": "TO_VERIFY",
       "changeType": "UNCHANGED",
@@ -2849,7 +2849,7 @@
       "displayOrder": 41,
       "country": "Italia",
       "city": "Roma",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-24T08:13:38+02:00",
       "applicationStatus": "TO_VERIFY",
       "changeType": "UNCHANGED",
@@ -2929,7 +2929,7 @@
       "displayOrder": 42,
       "country": "Spagna",
       "city": "Madrid",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-28T08:19:57+02:00",
       "applicationStatus": "CLOSED",
       "changeType": "UNCHANGED",
@@ -3008,7 +3008,7 @@
       "publishedAt": "2026-07-09",
       "publishedDateSource": "České Budějovice 2028 — pagina ufficiale",
       "firstSeen": null,
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-29T07:33:17+02:00",
       "applicationStatus": "CLOSED",
       "changeType": "UNCHANGED",
@@ -3088,7 +3088,7 @@
       "publishedAt": null,
       "publishedDateSource": null,
       "firstSeen": "2026-09-17",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-10-01T07:40:14+02:00",
       "applicationStatus": "CLOSED",
       "changeType": "UNCHANGED",
@@ -3175,7 +3175,7 @@
       "displayOrder": 45,
       "country": "Singapore",
       "city": "Singapore",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-10-01T07:40:14+02:00",
       "applicationStatus": "CLOSED",
       "changeType": "UNCHANGED",
@@ -3251,7 +3251,7 @@
       "displayOrder": 46,
       "country": "Italia",
       "city": "Milano",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-10-01T07:40:14+02:00",
       "applicationStatus": "CLOSED",
       "changeType": "UNCHANGED",
@@ -3323,7 +3323,7 @@
       "displayOrder": 47,
       "country": "Spagna",
       "city": "Ibiza",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-10-01T07:40:14+02:00",
       "applicationStatus": "CLOSED",
       "changeType": "UNCHANGED",
@@ -3382,7 +3382,7 @@
       "applicationOpenDate": "2026-08-24",
       "firstSeen": "2026-09-19",
       "lastVerifiedAt": "2026-10-01T07:40:14+02:00",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-10-01T07:40:14+02:00",
       "liveStatus": "CLOSED",
       "applicationStatus": "CLOSED",
@@ -3468,7 +3468,7 @@
       "applicationOpenDate": null,
       "firstSeen": "2026-09-27",
       "lastVerifiedAt": "2026-10-01T07:40:14+02:00",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-10-01T07:40:14+02:00",
       "deadline": "2026-09-30T23:59:00+02:00",
       "deadlineTimezone": "Europe/Amsterdam",
@@ -3571,7 +3571,7 @@
       "publishedAt": null,
       "publishedDateSource": null,
       "firstSeen": null,
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-10-02T08:20:13+02:00",
       "applicationStatus": "CLOSED",
       "changeType": "UNCHANGED",
@@ -3634,7 +3634,7 @@
       "applicationOpenDate": "2026-07-01",
       "firstSeen": "2026-09-21",
       "lastVerifiedAt": "2026-10-06T08:16:10+02:00",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-27T07:54:37+02:00",
       "liveStatus": "LIVE",
       "applicationStatus": "OPEN",
@@ -3657,8 +3657,8 @@
       "deadline": "2026-10-15",
       "deadlineTimezone": "Europe/Berlin",
       "deadlineEuropeRome": "2026-10-15",
-      "daysRemaining": 8,
-      "urgency": "SOON",
+      "daysRemaining": 7,
+      "urgency": "URGENT",
       "eligibility": [
         "Artisti individuali o collettivi; progetto con legame esplicito ai fondi ZADIK."
       ],
@@ -3735,7 +3735,7 @@
       "displayOrder": 52,
       "country": "Germania",
       "city": "Braunschweig",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-10-05T07:53:50+02:00",
       "applicationStatus": "CLOSED",
       "changeType": "UNCHANGED",
@@ -3799,8 +3799,8 @@
       "publishedDateSource": "Non esposta dalla fonte ufficiale",
       "applicationOpenDate": null,
       "firstSeen": "2026-09-21",
-      "lastVerifiedAt": "2026-10-07T07:39:01+02:00",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "lastVerifiedAt": "2026-10-08T07:52:22+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-25T07:40:59+02:00",
       "liveStatus": "LIVE",
       "applicationStatus": "OPEN",
@@ -3823,7 +3823,7 @@
       "deadline": "2026-10-08T23:59:00+02:00",
       "deadlineTimezone": "Europe/Rome",
       "deadlineEuropeRome": "2026-10-08T23:59:00+02:00",
-      "daysRemaining": 1,
+      "daysRemaining": 0,
       "urgency": "CRITICAL",
       "eligibility": [
         "Artisti di qualsiasi nazionalità; sezione Contemporary oltre 30 anni, senza limite massimo."
@@ -3882,7 +3882,7 @@
       "org": "Djerassi Resident Artists Program",
       "location": "Woodside, California, Stati Uniti",
       "deadline": "2026-10-09",
-      "lastVerifiedAt": "2026-10-06T08:16:10+02:00",
+      "lastVerifiedAt": "2026-10-08T07:52:22+02:00",
       "liveStatus": "LIVE",
       "summary": "Residenze 2027 per arti visive, media art e ricerca interdisciplinare, aperte anche ad artisti established.",
       "relevance": "Pertinente a immagini, installazione e media art; disponibile anche il percorso Leonardo per arte e scienza.",
@@ -3902,7 +3902,7 @@
       "publishedAt": null,
       "publishedDateSource": null,
       "firstSeen": "2026-09-17",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-19T11:38:33+02:00",
       "applicationStatus": "TO_VERIFY",
       "changeType": "UNCHANGED",
@@ -3918,7 +3918,7 @@
       "requiresAccount": true,
       "deadlineTimezone": null,
       "deadlineEuropeRome": null,
-      "daysRemaining": 2,
+      "daysRemaining": 1,
       "urgency": "CRITICAL",
       "requiredLanguageLevel": "Fluente",
       "materialsDeadline": null,
@@ -3984,7 +3984,7 @@
       "publishedAt": null,
       "publishedDateSource": null,
       "firstSeen": null,
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-17T11:08:02+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -4000,7 +4000,7 @@
       "requiresAccount": true,
       "deadlineTimezone": "-04:00",
       "deadlineEuropeRome": "2026-10-13T05:59:00+02:00",
-      "daysRemaining": 6,
+      "daysRemaining": 5,
       "urgency": "URGENT",
       "requiredLanguageLevel": null,
       "materialsDeadline": null,
@@ -4049,7 +4049,7 @@
       "applicationOpenDate": null,
       "firstSeen": "2026-09-24",
       "lastVerifiedAt": "2026-10-05T07:53:50+02:00",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-24T08:13:38+02:00",
       "liveStatus": "LIVE",
       "applicationStatus": "OPEN",
@@ -4072,8 +4072,8 @@
       "deadline": "2026-10-15",
       "deadlineTimezone": null,
       "deadlineEuropeRome": null,
-      "daysRemaining": 8,
-      "urgency": "SOON",
+      "daysRemaining": 7,
+      "urgency": "URGENT",
       "eligibility": [],
       "requiredExperience": null,
       "requiredLanguages": [],
@@ -4143,7 +4143,7 @@
       "displayOrder": 57,
       "country": "Stati Uniti",
       "city": null,
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-19T16:42:02+02:00",
       "applicationStatus": "TO_VERIFY",
       "changeType": "UNCHANGED",
@@ -4158,7 +4158,7 @@
       "deadline": "2026-10-16T23:59:00-04:00",
       "deadlineTimezone": "America/New_York",
       "deadlineEuropeRome": "2026-10-17T05:59:00+02:00",
-      "daysRemaining": 10,
+      "daysRemaining": 9,
       "urgency": "SOON",
       "requiredLanguageLevel": null,
       "materialsDeadline": null,
@@ -4220,7 +4220,7 @@
       "displayOrder": 58,
       "country": "Italia",
       "city": "Alassio",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-19T16:42:02+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -4235,7 +4235,7 @@
       "deadline": "2026-10-31",
       "deadlineTimezone": null,
       "deadlineEuropeRome": null,
-      "daysRemaining": 24,
+      "daysRemaining": 23,
       "urgency": "ACTIVE",
       "requiredLanguageLevel": null,
       "materialsDeadline": null,
@@ -4289,7 +4289,7 @@
       "publishedAt": null,
       "publishedDateSource": null,
       "firstSeen": "2026-09-17",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-19T11:38:33+02:00",
       "applicationStatus": "TO_VERIFY",
       "changeType": "UNCHANGED",
@@ -4305,7 +4305,7 @@
       "requiresAccount": true,
       "deadlineTimezone": "CET",
       "deadlineEuropeRome": "2026-11-06T14:00:00+01:00",
-      "daysRemaining": 30,
+      "daysRemaining": 29,
       "urgency": "ACTIVE",
       "requiredLanguageLevel": null,
       "materialsDeadline": null,
@@ -4364,7 +4364,7 @@
       "displayOrder": 60,
       "country": "Francia",
       "city": "Cassis",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-19T16:42:02+02:00",
       "applicationStatus": "TO_VERIFY",
       "changeType": "UNCHANGED",
@@ -4433,7 +4433,7 @@
       "publishedAt": "2026-08-27",
       "publishedDateSource": "MMCA – pagina ufficiale del programma",
       "firstSeen": null,
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-19T11:38:33+02:00",
       "applicationStatus": "CLOSED",
       "changeType": "UNCHANGED",
@@ -4503,12 +4503,12 @@
       "applicationOpenDate": null,
       "firstSeen": "2026-10-06",
       "lastVerifiedAt": "2026-10-07T07:39:01+02:00",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-10-06T08:16:10+02:00",
       "deadline": "2026-10-26T15:00:00+02:00",
       "deadlineTimezone": "GMT+2",
       "deadlineEuropeRome": "2026-10-26T14:00:00+01:00",
-      "daysRemaining": 19,
+      "daysRemaining": 18,
       "urgency": "ACTIVE",
       "materialsDeadline": null,
       "liveStatus": "LIVE",
@@ -4601,8 +4601,8 @@
       "publishedAt": null,
       "publishedDateSource": null,
       "firstSeen": "2026-09-19",
-      "lastVerifiedAt": "2026-10-07T07:39:01+02:00",
-      "liveStatus": "LIVE",
+      "lastVerifiedAt": "2026-10-08T07:52:22+02:00",
+      "liveStatus": "CLOSED",
       "tag": "COMMISSION",
       "isNew": false,
       "summary": "Commissione pubblica per un murale permanente di grande scala.",
@@ -4616,28 +4616,28 @@
         "Lettera d’interesse",
         "Fino a 3 video facoltativi"
       ],
-      "directApplyUrl": "https://cityofmiamibeach.submittable.com/submit",
+      "directApplyUrl": null,
       "verification": "PRIMARY",
       "displayOrder": 62,
       "country": "Stati Uniti",
       "city": "Miami Beach",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
-      "lastChangedAt": "2026-09-19T16:42:02+02:00",
-      "applicationStatus": "OPEN",
-      "changeType": "UNCHANGED",
-      "changeSummary": null,
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
+      "lastChangedAt": "2026-10-08T07:52:22+02:00",
+      "applicationStatus": "CLOSED",
+      "changeType": "CLOSED",
+      "changeSummary": "Il portale ufficiale Submittable dichiara che non vi sono call aperte.",
       "sourceType": "OFFICIAL_CALL",
       "sourceUrl": "https://cityofmiamibeach.submittable.com/submit",
       "canonicalUrl": "https://cityofmiamibeach.submittable.com/submit",
-      "applicationUrl": "https://cityofmiamibeach.submittable.com/submit",
+      "applicationUrl": null,
       "applicationMethod": "PORTAL",
       "applicationPortal": "Submittable",
       "requiresAccount": true,
       "deadline": "2026-10-08T17:00:00",
       "deadlineTimezone": "EST (dicitura della fonte; ora legale da chiarire)",
       "deadlineEuropeRome": null,
-      "daysRemaining": 1,
-      "urgency": "CRITICAL",
+      "daysRemaining": 0,
+      "urgency": "CLOSED",
       "requiredLanguageLevel": null,
       "materialsDeadline": null,
       "applicationFeeAmount": null,
@@ -4652,7 +4652,7 @@
       "contactEmail": "daniellebender@miamibeachfl.gov",
       "contactPhone": "305-673-7577 Ext. 26256",
       "questionsOrContactUrl": null,
-      "verificationNotes": "Pagina Submittable ufficiale aperta con voce specifica G5, deadline, budget, requisiti e pulsante Submit verificati.",
+      "verificationNotes": "Chiusura verificata l’8 ottobre 2026 sul portale ufficiale: 'There are presently no open calls for submissions'.",
       "applicationEffort": null,
       "applicationSteps": [],
       "eligibility": [
@@ -4698,7 +4698,7 @@
       "displayOrder": 63,
       "country": "Irlanda",
       "city": "Waterford",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-19T16:42:02+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -4770,7 +4770,7 @@
       "displayOrder": 64,
       "country": null,
       "city": null,
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-19T16:42:02+02:00",
       "applicationStatus": "TO_VERIFY",
       "changeType": "UNCHANGED",
@@ -4845,7 +4845,7 @@
       "displayOrder": 65,
       "country": "Stati Uniti",
       "city": "Bay Shore",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-24T08:13:38+02:00",
       "applicationStatus": "CLOSED",
       "changeType": "UNCHANGED",
@@ -4908,7 +4908,7 @@
       "applicationOpenDate": null,
       "firstSeen": "2026-09-28",
       "lastVerifiedAt": "2026-10-01T07:40:14+02:00",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-09-28T08:19:57+02:00",
       "liveStatus": "LIVE",
       "applicationStatus": "OPEN",
@@ -5004,7 +5004,7 @@
       "applicationOpenDate": "2026-09-01T12:00:00+02:00",
       "firstSeen": "2026-09-28",
       "lastVerifiedAt": "2026-10-02T08:20:13+02:00",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-10-02T08:20:13+02:00",
       "deadline": "2026-10-01T12:00:00+02:00",
       "deadlineTimezone": "Europe/Amsterdam",
@@ -5101,7 +5101,7 @@
       "applicationOpenDate": null,
       "firstSeen": "2026-09-28",
       "lastVerifiedAt": "2026-09-28T08:19:57+02:00",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-10-01T07:40:14+02:00",
       "deadline": "2026-09-30",
       "deadlineTimezone": "Non esposto",
@@ -5201,7 +5201,7 @@
       "applicationOpenDate": null,
       "firstSeen": "2026-10-01T07:40:14+02:00",
       "lastVerifiedAt": "2026-10-05T07:53:50+02:00",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-10-01T07:40:14+02:00",
       "liveStatus": "LIVE",
       "applicationStatus": "OPEN",
@@ -5289,7 +5289,7 @@
       "applicationOpenDate": null,
       "firstSeen": "2026-10-01T07:40:14+02:00",
       "lastVerifiedAt": "2026-10-01T07:40:14+02:00",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-10-01T07:40:14+02:00",
       "liveStatus": "LIVE",
       "applicationStatus": "OPEN",
@@ -5385,7 +5385,7 @@
       "publishedAt": null,
       "publishedDateSource": "Non esposta nell’ATS ufficiale",
       "firstSeen": "2026-10-02",
-      "lastVerifiedAt": "2026-10-06T08:16:10+02:00",
+      "lastVerifiedAt": "2026-10-08T07:52:22+02:00",
       "liveStatus": "LIVE",
       "tag": "VACANCY",
       "isNew": false,
@@ -5408,7 +5408,7 @@
       "displayOrder": 11,
       "country": "India",
       "city": null,
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-10-03T07:43:00+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -5501,7 +5501,7 @@
       "displayOrder": 14,
       "country": "Regno Unito",
       "city": "London",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-10-03T07:43:00+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -5562,12 +5562,12 @@
       "publishedAt": null,
       "publishedDateSource": "Non esposta nell’ATS ufficiale",
       "firstSeen": "2026-10-06",
-      "lastVerifiedAt": "2026-10-06T08:16:10+02:00",
+      "lastVerifiedAt": "2026-10-08T07:52:22+02:00",
       "liveStatus": "LIVE",
       "tag": "VACANCY",
       "isNew": false,
       "verification": "PRIMARY",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-10-06T08:16:10+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -5659,7 +5659,7 @@
       "tag": "VACANCY",
       "isNew": false,
       "verification": "PRIMARY",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-10-06T08:16:10+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -5755,12 +5755,12 @@
       "applicationOpenDate": "2026-09-15",
       "firstSeen": "2026-10-03",
       "lastVerifiedAt": "2026-10-07T07:39:01+02:00",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-10-03T07:43:00+02:00",
       "deadline": "2026-12-01T23:59:00-05:00",
       "deadlineTimezone": "EST",
       "deadlineEuropeRome": "2026-12-02T05:59:00+01:00",
-      "daysRemaining": 56,
+      "daysRemaining": 55,
       "urgency": "LONG_RANGE",
       "liveStatus": "LIVE",
       "applicationStatus": "OPEN",
@@ -5846,12 +5846,12 @@
       "applicationOpenDate": "2026-10-01T09:00:00+02:00",
       "firstSeen": "2026-10-04",
       "lastVerifiedAt": "2026-10-07T07:39:01+02:00",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-10-04T07:52:28+02:00",
       "deadline": "2026-10-31T23:59:00+01:00",
       "deadlineTimezone": "CET",
       "deadlineEuropeRome": "2026-10-31T23:59:00+01:00",
-      "daysRemaining": 24,
+      "daysRemaining": 23,
       "urgency": "ACTIVE",
       "materialsDeadline": null,
       "liveStatus": "LIVE",
@@ -5977,7 +5977,7 @@
       "displayOrder": 73,
       "country": "Italia",
       "city": null,
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-10-05T07:53:50+02:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -5992,7 +5992,7 @@
       "deadline": "2027-03-26",
       "deadlineTimezone": "Europe/Rome",
       "deadlineEuropeRome": "2027-03-26",
-      "daysRemaining": 170,
+      "daysRemaining": 169,
       "urgency": "LONG_RANGE",
       "requiredLanguageLevel": null,
       "materialsDeadline": null,
@@ -6035,14 +6035,14 @@
       "publishedDateSource": "Non esposta dalla fonte ufficiale",
       "applicationOpenDate": null,
       "firstSeen": "2026-10-07",
-      "lastVerifiedAt": "2026-10-07T07:39:01+02:00",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "lastVerifiedAt": "2026-10-08T07:52:22+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-10-07T07:39:01+02:00",
       "liveStatus": "LIVE",
       "applicationStatus": "OPEN",
-      "changeType": "NEW",
+      "changeType": "UNCHANGED",
       "tag": "VACANCY",
-      "isNew": true,
+      "isNew": false,
       "deadline": null,
       "deadlineTimezone": null,
       "deadlineEuropeRome": null,
@@ -6118,7 +6118,7 @@
       "verification": "PRIMARY",
       "verificationNotes": "Annuncio ufficiale DNEG presente nell’elenco corrente con pulsante Apply; ruolo di surfacing environment, non Matte Painter.",
       "applicationEffort": "MEDIUM",
-      "changeSummary": "Nuova vacancy ufficiale DNEG verificata il 7 ottobre.",
+      "changeSummary": null,
       "displayOrder": 75
     },
     {
@@ -6128,13 +6128,13 @@
       "applicationOpenDate": null,
       "firstSeen": "2026-10-07",
       "lastVerifiedAt": "2026-10-07T07:39:01+02:00",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-10-07T07:39:01+02:00",
       "liveStatus": "LIVE",
       "applicationStatus": "OPEN",
-      "changeType": "NEW",
+      "changeType": "UNCHANGED",
       "tag": "VACANCY",
-      "isNew": true,
+      "isNew": false,
       "deadline": null,
       "deadlineTimezone": null,
       "deadlineEuropeRome": null,
@@ -6210,7 +6210,7 @@
       "verification": "PRIMARY",
       "verificationNotes": "Annuncio ufficiale DNEG presente con Apply e modalità hybrid remote; classificato separatamente dal Matte Painter perché centrato sulla modellazione 3D.",
       "applicationEffort": "MEDIUM",
-      "changeSummary": "Nuova vacancy ufficiale DNEG verificata il 7 ottobre.",
+      "changeSummary": null,
       "displayOrder": 76
     },
     {
@@ -6220,17 +6220,17 @@
       "applicationOpenDate": null,
       "firstSeen": "2026-10-07",
       "lastVerifiedAt": "2026-10-07T07:39:01+02:00",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-10-07T07:39:01+02:00",
       "liveStatus": "LIVE",
       "applicationStatus": "OPEN",
-      "changeType": "NEW",
+      "changeType": "UNCHANGED",
       "tag": "RESIDENCY",
-      "isNew": true,
+      "isNew": false,
       "deadline": "2026-10-18",
       "deadlineTimezone": "Europe/Rome; ora non esposta",
       "deadlineEuropeRome": null,
-      "daysRemaining": 11,
+      "daysRemaining": 10,
       "urgency": "SOON",
       "materialsDeadline": null,
       "requiredLanguageLevel": "Candidatura e collaborazione in inglese.",
@@ -6310,7 +6310,7 @@
       "verification": "PRIMARY",
       "verificationNotes": "Call, scadenza, budget, modalità email, requisiti e obbligo di esperienza vissuta verificati sulla pagina ufficiale della Commissione europea.",
       "applicationEffort": "MEDIUM",
-      "changeSummary": "Nuova residenza Art&Science ufficiale verificata il 7 ottobre.",
+      "changeSummary": null,
       "displayOrder": 77
     },
     {
@@ -6320,17 +6320,17 @@
       "applicationOpenDate": null,
       "firstSeen": "2026-10-07",
       "lastVerifiedAt": "2026-10-07T07:39:01+02:00",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-10-07T07:39:01+02:00",
       "liveStatus": "LIVE",
       "applicationStatus": "OPEN",
-      "changeType": "NEW",
+      "changeType": "UNCHANGED",
       "tag": "RESIDENCY",
-      "isNew": true,
+      "isNew": false,
       "deadline": "2026-10-30",
       "deadlineTimezone": "Europe/Paris; ora non esposta",
       "deadlineEuropeRome": null,
-      "daysRemaining": 23,
+      "daysRemaining": 22,
       "urgency": "ACTIVE",
       "materialsDeadline": null,
       "requiredLanguageLevel": null,
@@ -6404,7 +6404,7 @@
       "verification": "PRIMARY",
       "verificationNotes": "Programma, finestra 21 settembre–30 ottobre, requisiti e finanziamento verificati sulla pagina ufficiale; portale raggiungibile ma richiede JavaScript.",
       "applicationEffort": "HIGH",
-      "changeSummary": "Nuovo programma di residenza internazionale verificato il 7 ottobre.",
+      "changeSummary": null,
       "displayOrder": 78
     },
     {
@@ -6414,17 +6414,17 @@
       "applicationOpenDate": null,
       "firstSeen": "2026-10-07",
       "lastVerifiedAt": "2026-10-07T07:39:01+02:00",
-      "sourceCheckedAt": "2026-10-07T07:39:01+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
       "lastChangedAt": "2026-10-07T07:39:01+02:00",
       "liveStatus": "LIVE",
       "applicationStatus": "OPEN",
-      "changeType": "NEW",
+      "changeType": "UNCHANGED",
       "tag": "RESIDENCY",
-      "isNew": true,
+      "isNew": false,
       "deadline": "2026-10-19",
       "deadlineTimezone": "Europe/Ljubljana; ora non esposta",
       "deadlineEuropeRome": null,
-      "daysRemaining": 12,
+      "daysRemaining": 11,
       "urgency": "SOON",
       "materialsDeadline": null,
       "requiredLanguageLevel": "Materiali e collaborazione internazionale in inglese.",
@@ -6505,8 +6505,276 @@
       "verification": "PRIMARY",
       "verificationNotes": "Call, scadenza, compenso, alloggio, materiali e modalità email verificati sulla pagina ufficiale OASis/KIBLA. Il mirror KIBLA ha restituito errore temporaneo, ma la call primaria è leggibile.",
       "applicationEffort": "MEDIUM",
-      "changeSummary": "Nuova residenza europea AI/digital art verificata il 7 ottobre.",
+      "changeSummary": null,
       "displayOrder": 79
+    },
+    {
+      "employmentType": null,
+      "publishedAt": null,
+      "publishedDateSource": "Non esposta dalla fonte ufficiale",
+      "applicationOpenDate": null,
+      "firstSeen": "2026-10-08",
+      "lastVerifiedAt": "2026-10-08T07:52:22+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
+      "lastChangedAt": "2026-10-08T07:52:22+02:00",
+      "liveStatus": "LIVE",
+      "applicationStatus": "OPEN",
+      "changeType": "NEW",
+      "tag": "VACANCY",
+      "isNew": true,
+      "deadline": null,
+      "deadlineTimezone": null,
+      "deadlineEuropeRome": null,
+      "daysRemaining": null,
+      "urgency": "NO_DEADLINE",
+      "materialsDeadline": null,
+      "requiredLanguageLevel": null,
+      "applicationFeeAmount": null,
+      "applicationFeeCurrency": null,
+      "compensationAmount": null,
+      "compensationCurrency": null,
+      "compensationType": null,
+      "salaryOrCompensation": null,
+      "contactStatus": "NOT_PUBLISHED",
+      "contactName": null,
+      "contactRole": null,
+      "contactEmail": null,
+      "contactPhone": null,
+      "questionsOrContactUrl": null,
+      "requiresAccount": null,
+      "applicationPortal": "Jobvite",
+      "funding": null,
+      "remotePolicy": null,
+      "requiredExperience": null,
+      "requiredSoftware": [],
+      "requiredLanguages": [],
+      "materials": [],
+      "materialsFormat": [],
+      "eligibility": [],
+      "applicationSteps": [
+        "Aprire il form Jobvite.",
+        "Verificare località e requisiti completi prima dell’invio.",
+        "Caricare CV e reel lighting se richiesti."
+      ],
+      "matchedSkills": [
+        "CGI",
+        "lighting",
+        "shot finishing",
+        "feature animation"
+      ],
+      "gaps": [
+        "Località, requisiti software ed esperienza non sono esposti nella scheda pubblica recuperata."
+      ],
+      "dealBreakers": [],
+      "id": "work-dneg-ozmuufwt",
+      "area": "work",
+      "score": 3,
+      "fitScore": 3,
+      "title": "Lighting TD (DNEG Animation)",
+      "org": "DNEG",
+      "country": null,
+      "city": null,
+      "location": "Località non esposta nella scheda pubblica recuperata",
+      "category": "Lighting TD / Feature Animation",
+      "summary": "Ruolo Lighting TD nel reparto Shot Finishing di DNEG Animation.",
+      "relevance": "Pertinente alla ricerca Lighting TD e alla produzione d’immagine in pipeline cinematografiche; distinto da DMP, surfacing e modellazione.",
+      "fitReason": "Compatibilità media con esperienza CGI, lighting e composizione, ma la scheda pubblica non espone ancora requisiti dettagliati.",
+      "applicationMethod": "FORM",
+      "sourceType": "ATS",
+      "sourceUrl": "https://jobs.jobvite.com/double-negative-visual-effects/job/ozMUufwt",
+      "canonicalUrl": "https://jobs.jobvite.com/double-negative-visual-effects/job/ozMUufwt",
+      "applicationUrl": "https://jobs.jobvite.com/double-negative-visual-effects/job/ozMUufwt/apply",
+      "directApplyUrl": "https://jobs.jobvite.com/double-negative-visual-effects/job/ozMUufwt/apply",
+      "verification": "PRIMARY",
+      "verificationNotes": "Titolo presente nell’elenco ufficiale DNEG e pagina Jobvite con pulsante Apply. La scheda pubblica espone informazioni operative limitate.",
+      "applicationEffort": "MEDIUM",
+      "changeSummary": "Nuova vacancy DNEG ufficiale verificata l’8 ottobre.",
+      "displayOrder": 80
+    },
+    {
+      "employmentType": null,
+      "publishedAt": null,
+      "publishedDateSource": "Non esposta dalla fonte ufficiale",
+      "applicationOpenDate": null,
+      "firstSeen": "2026-10-08",
+      "lastVerifiedAt": "2026-10-08T07:52:22+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
+      "lastChangedAt": "2026-10-08T07:52:22+02:00",
+      "liveStatus": "LIVE",
+      "applicationStatus": "OPEN",
+      "changeType": "NEW",
+      "tag": "VACANCY",
+      "isNew": true,
+      "deadline": null,
+      "deadlineTimezone": null,
+      "deadlineEuropeRome": null,
+      "daysRemaining": null,
+      "urgency": "NO_DEADLINE",
+      "materialsDeadline": null,
+      "requiredLanguageLevel": null,
+      "applicationFeeAmount": null,
+      "applicationFeeCurrency": null,
+      "compensationAmount": null,
+      "compensationCurrency": null,
+      "compensationType": null,
+      "salaryOrCompensation": null,
+      "contactStatus": "NOT_PUBLISHED",
+      "contactName": null,
+      "contactRole": null,
+      "contactEmail": null,
+      "contactPhone": null,
+      "questionsOrContactUrl": null,
+      "requiresAccount": null,
+      "applicationPortal": "Jobvite",
+      "funding": null,
+      "remotePolicy": null,
+      "requiredExperience": null,
+      "requiredSoftware": [],
+      "requiredLanguages": [],
+      "materials": [],
+      "materialsFormat": [],
+      "eligibility": [],
+      "applicationSteps": [
+        "Aprire il form Jobvite.",
+        "Verificare località e requisiti completi prima dell’invio.",
+        "Adattare CV e reel a lighting e shot finishing VFX."
+      ],
+      "matchedSkills": [
+        "VFX",
+        "lighting",
+        "shot finishing",
+        "CGI"
+      ],
+      "gaps": [
+        "Località, requisiti software ed esperienza non sono esposti nella scheda pubblica recuperata."
+      ],
+      "dealBreakers": [],
+      "id": "work-dneg-oppdafwb",
+      "area": "work",
+      "score": 3,
+      "fitScore": 3,
+      "title": "Lighting TD (VFX)",
+      "org": "DNEG",
+      "country": null,
+      "city": null,
+      "location": "Località non esposta nella scheda pubblica recuperata",
+      "category": "Lighting TD / VFX",
+      "summary": "Ruolo Lighting TD VFX nel reparto Shot Finishing di DNEG.",
+      "relevance": "Risultato pertinente alla ricerca Lighting TD; riguarda illuminazione e finalizzazione degli shot, non matte painting o modellazione.",
+      "fitReason": "Compatibilità media con CGI, lighting e supervisione visiva; servono dettagli ulteriori su località e requisiti.",
+      "applicationMethod": "FORM",
+      "sourceType": "ATS",
+      "sourceUrl": "https://jobs.jobvite.com/double-negative-visual-effects/job/oPPdAfwb",
+      "canonicalUrl": "https://jobs.jobvite.com/double-negative-visual-effects/job/oPPdAfwb",
+      "applicationUrl": "https://jobs.jobvite.com/double-negative-visual-effects/job/oPPdAfwb/apply",
+      "directApplyUrl": "https://jobs.jobvite.com/double-negative-visual-effects/job/oPPdAfwb/apply",
+      "verification": "PRIMARY",
+      "verificationNotes": "Titolo presente nell’elenco ufficiale DNEG e pagina Jobvite con pulsante Apply. La scheda pubblica espone informazioni operative limitate.",
+      "applicationEffort": "MEDIUM",
+      "changeSummary": "Nuova vacancy DNEG ufficiale verificata l’8 ottobre.",
+      "displayOrder": 81
+    },
+    {
+      "employmentType": null,
+      "publishedAt": "2026-10-07",
+      "publishedDateSource": "Pagina ufficiale Knowledge4Policy",
+      "applicationOpenDate": null,
+      "firstSeen": "2026-10-08",
+      "lastVerifiedAt": "2026-10-08T07:52:22+02:00",
+      "sourceCheckedAt": "2026-10-08T07:52:22+02:00",
+      "lastChangedAt": "2026-10-08T07:52:22+02:00",
+      "liveStatus": "LIVE",
+      "applicationStatus": "OPEN",
+      "changeType": "NEW",
+      "tag": "RESIDENCY",
+      "isNew": true,
+      "deadline": "2026-10-24T23:59:00+02:00",
+      "deadlineTimezone": "Europe/Brussels",
+      "deadlineEuropeRome": "2026-10-24T23:59:00+02:00",
+      "daysRemaining": 16,
+      "urgency": "ACTIVE",
+      "materialsDeadline": null,
+      "requiredLanguageLevel": "Inglese necessario; francese utile ma non obbligatorio.",
+      "applicationFeeAmount": 0,
+      "applicationFeeCurrency": "EUR",
+      "compensationAmount": 15000,
+      "compensationCurrency": "EUR",
+      "compensationType": "MIXED",
+      "salaryOrCompensation": "€15.000 all-inclusive.",
+      "contactStatus": "AVAILABLE",
+      "contactName": null,
+      "contactRole": "DG RTD / EU Policy Lab",
+      "contactEmail": "JRC-EU-POLICY-LAB@ec.europa.eu",
+      "contactPhone": null,
+      "questionsOrContactUrl": null,
+      "requiresAccount": null,
+      "applicationPortal": null,
+      "funding": "€15.000 complessivi, inclusivi di fee, allowance, alloggio e viaggio.",
+      "remotePolicy": "Sei mesi da gennaio o febbraio 2027; fino a 20 giorni a Bruxelles, resto da remoto.",
+      "requiredExperience": "Almeno due anni di pratica artistica research-based sviluppata con luoghi, comunità, scienziati o istituzioni.",
+      "requiredSoftware": [],
+      "requiredLanguages": [
+        "English"
+      ],
+      "materials": [
+        "Statement massimo una pagina / circa 500 parole",
+        "Portfolio di lavori o progetti pertinenti",
+        "CV",
+        "Link al sito, se disponibile"
+      ],
+      "materialsFormat": [
+        "Un unico PDF allegato all’email",
+        "Oggetto email: RTD Residency"
+      ],
+      "eligibility": [
+        "Qualsiasi nazionalità, con autorizzazione legale a lavorare nell’UE.",
+        "Almeno due anni di pratica artistica research-based pertinente.",
+        "Disponibilità per fino a 20 giorni non consecutivi a Bruxelles durante i sei mesi."
+      ],
+      "applicationSteps": [
+        "Definire una linea di ricerca su costa, identità, memoria e resilienza.",
+        "Preparare statement di una pagina, portfolio pertinente e CV in un unico PDF.",
+        "Inviare con oggetto RTD Residency entro il 24 ottobre alle 23:59."
+      ],
+      "matchedSkills": [
+        "visual arts",
+        "territory and identity",
+        "community practice",
+        "research-based art",
+        "interdisciplinary storytelling"
+      ],
+      "gaps": [
+        "Il budget è all-inclusive e non prevede un production budget garantito separato.",
+        "Serve dimostrare almeno due anni di pratica research-based pertinente."
+      ],
+      "dealBreakers": [
+        "Autorizzazione legale a lavorare nell’UE.",
+        "Almeno due anni di pratica research-based pertinente."
+      ],
+      "id": "art-jrc-shifting-shores-2027",
+      "area": "art",
+      "score": 5,
+      "fitScore": 5,
+      "title": "Shifting Shores — Artist in Residence",
+      "org": "European Commission DG RTD / EU Policy Lab, Joint Research Centre",
+      "country": "Belgio / remoto",
+      "city": "Bruxelles",
+      "location": "DG RTD, Bruxelles; fino a 20 giorni on-site, resto da remoto",
+      "category": "RESIDENCY / ART & SCIENCE / COASTAL RESILIENCE",
+      "summary": "Residenza di sei mesi dentro le politiche europee di ricerca su coste, cambiamento climatico, identità, memoria e resilienza.",
+      "relevance": "Forte corrispondenza con ricerca visiva su territorio, identità e memoria, oltre alla dimensione interdisciplinare e comunitaria.",
+      "fitReason": "Match molto alto per una pratica consolidata che intrecci identità, territorio, immagini e comunità.",
+      "applicationMethod": "EMAIL",
+      "sourceType": "OFFICIAL_CALL",
+      "sourceUrl": "https://knowledge-for-policy.ec.europa.eu/open-call-artist-residence_en",
+      "canonicalUrl": "https://knowledge-for-policy.ec.europa.eu/open-call-artist-residence_en",
+      "applicationUrl": null,
+      "directApplyUrl": "mailto:JRC-EU-POLICY-LAB@ec.europa.eu",
+      "verification": "PRIMARY",
+      "verificationNotes": "Pubblicazione, deadline, budget, requisiti, materiali e candidatura email verificati sulla pagina ufficiale della Commissione europea.",
+      "applicationEffort": "MEDIUM",
+      "changeSummary": "Nuova residenza ufficiale della Commissione europea pubblicata il 7 ottobre.",
+      "displayOrder": 82
     }
   ],
   "history": [
@@ -6643,10 +6911,19 @@
       "newItems": 5,
       "closedItems": 0,
       "changedItems": 0
+    },
+    {
+      "date": "2026-10-08",
+      "activeWork": 43,
+      "activeArt": 16,
+      "activeGraffiti": 2,
+      "newItems": 3,
+      "closedItems": 2,
+      "changedItems": 0
     }
   ],
   "scanLog": {
-    "lastRunAt": "2026-10-07T07:39:01+02:00",
+    "lastRunAt": "2026-10-08T07:52:22+02:00",
     "workItaly": [
       {
         "name": "EDI — Zoho Recruit",
@@ -6654,15 +6931,15 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Portale raggiungibile ma contenuto delle singole schede non renderizzato; nessuna chiusura inferita.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "22DOGS",
         "url": "https://22dogstudio.com/careers/ai-creative-technologist",
         "category": "workItaly",
-        "status": "SCANNED - OPPORTUNITY_FOUND",
-        "result": "AI Creative Technologist ancora LIVE; form Apply con CV e reel visibile.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "status": "SCANNED - NO_VACANCY",
+        "result": "AI Creative Technologist rimossa: endpoint 404 e ruolo assente dalla career page. Il Freelance Talent Pool resta attivo e verificato separatamente.",
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Proxima Milano",
@@ -6670,7 +6947,7 @@
         "category": "workItaly",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "AI N.E.R.D. Content Creator ancora pubblicata; candidatura via email ufficiale.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "BAND VFX",
@@ -6678,7 +6955,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Contatti generali trovati; endpoint specifico recruiting non verificato.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Square",
@@ -6686,7 +6963,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Pagina invita a candidarsi; modulo non verificato nell'estrazione.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "FLUXX",
@@ -6694,7 +6971,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Redirect alla homepage; canale di candidatura non confermato.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Jyamma Games",
@@ -6702,7 +6979,7 @@
         "category": "WORK MILANO / ITALIA",
         "status": "SCANNED - NO_VACANCY",
         "result": "La pagina elenco mostra Senior Mid VFX Artist, ma la scheda collegata dichiara esplicitamente 'This listing has expired'.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Hypercube VFX",
@@ -6710,7 +6987,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Reclutamento visuale indicato, ma dati societari incompleti: identità e credibilità da corroborare.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Rainbow CGI",
@@ -6718,7 +6995,7 @@
         "category": "workItaly",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Candidatura spontanea esplicita via recruiting@rbw-cgi.it con CV e reel.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Maga Animation",
@@ -6726,7 +7003,7 @@
         "category": "workItaly",
         "status": "SCANNED - NO_MATCH",
         "result": "Real-time Technical Director orientato scripting/Unreal/Unity/Python e IT Specialist: prevalenza tecnica, de-prioritizzati.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Alps Studios",
@@ -6734,7 +7011,7 @@
         "category": "workItaly",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Compositing Supervisor open role; Compositor e Lighting artist restano expression of interest.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Uchi VFX",
@@ -6742,7 +7019,7 @@
         "category": "workItaly",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Candidatura spontanea freelance full remote; form include DMP, concept, art direction e supervisione.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Frame by Frame",
@@ -6750,7 +7027,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Reparto VFX verificato; nessun endpoint specifico recruiting confermato nella pagina.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Taxfreefilm",
@@ -6758,7 +7035,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Contatti generali; invito specifico a candidature non verificato.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Alkanoids",
@@ -6766,7 +7043,7 @@
         "category": "workItaly",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Invito permanente a inviare portfolio a jobs@alkanoids.it.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Dadomani",
@@ -6774,7 +7051,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Portfolio e contatto generale; canale candidature specifico non verificato.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Mammafotogramma",
@@ -6782,7 +7059,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Work proposals e contatti generali; non è esplicitata una selezione di artisti.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Karmachina",
@@ -6790,7 +7067,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Profilo dello studio e contatto generale; vacancy non verificata.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "B612Studio",
@@ -6798,7 +7075,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Studio CGI advertising verificato; nessuna apertura recruiting esplicita.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Tokio Studio",
@@ -6806,7 +7083,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Post-produzione, VFX e AI confermati; nessuna candidatura esplicita verificata.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Hup.Studio",
@@ -6814,7 +7091,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Contatto generale; nessun invito specifico a candidarsi verificato.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Nerdo",
@@ -6822,7 +7099,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Profilo studio letto; canale recruiting da approfondire.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Studio Bozzetto",
@@ -6830,7 +7107,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Studio e contatti generali; nessuna vacancy artistica verificata.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "MONOGRID",
@@ -6838,7 +7115,7 @@
         "category": "workItaly",
         "status": "ACCESS_ERROR",
         "result": "Pagina non restituisce contenuti utili; segnalazioni social AI Art Director da verificare.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Ditroit",
@@ -6846,7 +7123,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Work with us presente, indirizzo email non leggibile nell'estrazione; annunci social non promossi a vacancy verificate.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Kortocircuito Video Production",
@@ -6854,7 +7131,7 @@
         "category": "WORK MILANO / ITALIA",
         "status": "TO_VERIFY",
         "result": "VFX Artist / AI Video Artist, full-time Milano; candidatura via email pubblica, fonte LinkedIn corroborata ma nessuna career page ufficiale trovata.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Digital Bros",
@@ -6862,7 +7139,15 @@
         "category": "WORK MILANO / ITALIA",
         "status": "SCANNED - NO_MATCH",
         "result": "Senior 3D Artist Milano presente ma orientato videogame real-time; meno coerente delle priorità VFX/DMP/AI.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
+      },
+      {
+        "name": "22DOGS — Freelance Talent Pool",
+        "url": "https://22dogstudio.com/freelance",
+        "category": "workItaly",
+        "status": "SCANNED - OPPORTUNITY_FOUND",
+        "result": "Expression of interest aperta con form completo per AI, DMP, environment, CG e supervisione.",
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       }
     ],
     "workInternationalRemote": [
@@ -6872,7 +7157,7 @@
         "category": "workInternationalRemote",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Vacancy esistenti riconfermate; aggiunta Generalist Artist Mid-Senior (DMP Specialized), Mumbai, con Apply Now attivo.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Unit Image",
@@ -6880,15 +7165,15 @@
         "category": "workInternationalRemote",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Candidatura spontanea confermata e nuovo ruolo Artiste FX 2D & 3D rilevato sulla career page ufficiale.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "DNEG / Jobvite",
         "url": "https://jobs.jobvite.com/double-negative-visual-effects/jobs",
         "category": "workInternationalRemote",
         "status": "SCANNED - OPPORTUNITY_FOUND",
-        "result": "Elenco ufficiale verificato: aggiunti Environment Surfacer (India, 6 mesi) ed Environment Modeller (Montréal, hybrid). Mantenuti distinti da DMP e Matte Painter.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "result": "Elenco ufficiale verificato: aggiunti Lighting TD (DNEG Animation) e Lighting TD (VFX), entrambi con Apply; mantenuti distinti da DMP, surfacing e modelling.",
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Framestore / Recruitee",
@@ -6896,7 +7181,7 @@
         "category": "workInternationalRemote",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Freelance CG Chicago talent pool ancora attivo; autorizzazione USA obbligatoria.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "RISE",
@@ -6904,7 +7189,7 @@
         "category": "workInternationalRemote",
         "status": "TO_VERIFY",
         "result": "Lettura parziale; verifica dei ruoli artistici non conclusa.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "ILM",
@@ -6912,7 +7197,7 @@
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "ATS Disney: ruoli Environment Supervisor, Lead Generalist e Senior Look Development; dettagli in verifica.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Weta FX",
@@ -6920,7 +7205,7 @@
         "status": "TO_VERIFY",
         "result": "Portale pubblico raggiungibile; elenco dinamico delle vacancy non leggibile.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Sony Pictures Imageworks",
@@ -6928,7 +7213,7 @@
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Matte Painter Vancouver ancora LIVE; form Greenhouse completo e pulsante Submit visibile.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Cinesite",
@@ -6936,7 +7221,7 @@
         "status": "TO_VERIFY",
         "result": "Pagina career leggibile, elenco dinamico non esposto.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Pixomondo",
@@ -6944,7 +7229,7 @@
         "status": "TO_VERIFY",
         "result": "Invito a candidature generiche; ATS Workable non leggibile.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Rodeo FX",
@@ -6952,7 +7237,7 @@
         "status": "TO_VERIFY",
         "result": "Pagina dinamica senza elenco leggibile.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Scanline / Eyeline",
@@ -6960,7 +7245,7 @@
         "status": "ACCESS_ERROR",
         "result": "Redirect Eyeline senza contenuto estraibile.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Important Looking Pirates",
@@ -6968,7 +7253,7 @@
         "status": "ACCESS_ERROR",
         "result": "Endpoint career non accessibile.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Goodbye Kansas",
@@ -6976,7 +7261,7 @@
         "status": "ACCESS_ERROR",
         "result": "Endpoint career non accessibile.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Platige Image",
@@ -6984,7 +7269,7 @@
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Senior Lighting Artist confermato; rilevato anche Unreal Engine FX Project Lead – Freelance con form attivo.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "DIGIC Pictures",
@@ -6992,7 +7277,7 @@
         "status": "ACCESS_ERROR",
         "result": "Endpoint career non accessibile.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Blur Studio",
@@ -7000,7 +7285,7 @@
         "status": "TO_VERIFY",
         "result": "Invito generico a contattare lo studio; endpoint candidatura non confermato.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Crafty Apes",
@@ -7008,7 +7293,7 @@
         "status": "ACCESS_ERROR",
         "result": "Endpoint career non accessibile.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Outpost VFX",
@@ -7016,7 +7301,7 @@
         "status": "TO_VERIFY",
         "result": "Pagina career leggibile ma elenco posizioni non esposto.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Union VFX",
@@ -7024,7 +7309,7 @@
         "status": "ACCESS_ERROR",
         "result": "Pagina non recuperabile oggi; stato della scheda non modificato senza prova.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "One of Us",
@@ -7032,7 +7317,7 @@
         "status": "ACCESS_ERROR",
         "result": "Endpoint career non accessibile.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Milk VFX",
@@ -7040,7 +7325,7 @@
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "CG Supervisor ancora pubblicato per Barcelona o London.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Blue Zoo",
@@ -7048,7 +7333,7 @@
         "status": "ACCESS_ERROR",
         "result": "Endpoint career non accessibile.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Spooki CG",
@@ -7056,7 +7341,7 @@
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "VFX Concept Artist remote UE ancora pubblicato; candidatura via email ufficiale.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Atmosphere Visual Effects",
@@ -7064,7 +7349,7 @@
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Digital Matte Painter remote ancora pubblicato con link Apply e email jobs.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       }
     ],
     "art": [
@@ -7074,7 +7359,7 @@
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "CLOSED: scadenza del 18 settembre superata.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "European Media Art Platform (EMAP) — EMAP Residencies 2027",
@@ -7082,7 +7367,7 @@
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Call attiva fino al 6 novembre ore 14 CET; registrazione richiesta.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Tokyo Biennale — SOCIAL DIVE 2027",
@@ -7090,15 +7375,15 @@
         "category": "art",
         "status": "SCANNED - NO_VACANCY",
         "result": "SOCIAL DIVE 2027 chiusa: deadline 30 settembre 2026 alle 23:59 JST trascorsa.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Djerassi Resident Artists Program — 2027 Djerassi Resident Artists Program",
         "url": "https://djerassi.org/apply/2027residency/",
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_FOUND",
-        "result": "Call aperta; application non verificata. Login non equivale a form accessibile.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "result": "Call 2027 ancora aperta; deadline 9 ottobre e collegamento Apply SlideRoom presente.",
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "České Budějovice 2028 / Ars Electronica — Ars Biologica ArtXScience Residency 2027–2028",
@@ -7106,7 +7391,7 @@
         "category": "art",
         "status": "SCANNED - NO_VACANCY",
         "result": "Ars Biologica: deadline ufficiale 28 settembre trascorsa; scheda chiusa nel feed.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "PhotoVogue / Condé Nast — Brave New Visions: Creativity as Rebellion",
@@ -7114,7 +7399,7 @@
         "category": "art",
         "status": "SCANNED - NO_VACANCY",
         "result": "Call chiusa: deadline 1 ottobre 2026, ore 23:59 CEST, superata.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "W. Eugene Smith Memorial Fund — W. Eugene Smith Grant 2026",
@@ -7122,7 +7407,7 @@
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Call aperta; application non verificata. Login non equivale a form accessibile.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Singapore Art Museum — Open Call: Cycle 4 (2027/2028)",
@@ -7130,7 +7415,7 @@
         "category": "art",
         "status": "SCANNED - NO_VACANCY",
         "result": "Cycle 4 chiusa: deadline 30 settembre 2026 alle 23:59 GMT+8 trascorsa.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Ars Electronica — fonte precedente",
@@ -7138,7 +7423,7 @@
         "category": "art",
         "status": "ACCESS_ERROR",
         "result": "Fonte non raggiungibile; call confermata sul co-organizzatore ufficiale.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Wave Farm",
@@ -7146,7 +7431,7 @@
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Research and Production Program 2027 LIVE: residenze/fellowship, deadline 1 dicembre 23:59 EST.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Squeaky Wheel",
@@ -7154,7 +7439,7 @@
         "category": "art",
         "status": "TO_VERIFY",
         "result": "Workspace Residency con requisiti fiscali USA; ammissibilità personale non verificata.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "TransArtists / DutchCulture",
@@ -7162,7 +7447,7 @@
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Discovery: Camargo, Medialab, HBK, Ses12naus, Rossonove, Tate e Skowhegan; fonti primarie seguite.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Casa degli Artisti",
@@ -7170,7 +7455,7 @@
         "category": "art",
         "status": "SCANNED - NO_VACANCY",
         "result": "ARIMO II chiusa: deadline ufficiale 30 settembre 2026 trascorsa.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Camargo Foundation",
@@ -7178,7 +7463,7 @@
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Fellowship 2027–2028 aperta sul portale ufficiale; modulo specifico non recuperabile.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Medialab Matadero",
@@ -7186,7 +7471,7 @@
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Deadline 27 settembre 2026 alle 23:59 CEST trascorsa; opportunità chiusa.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "HBK Braunschweig",
@@ -7194,7 +7479,7 @@
         "category": "art",
         "status": "SCANNED - NO_VACANCY",
         "result": "Braunschweig Projects 2027/2028 chiusa: deadline ufficiale 4 ottobre 2026 alle 23:59 trascorsa.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Fundación Ses12naus",
@@ -7202,7 +7487,7 @@
         "category": "art",
         "status": "SCANNED - NO_VACANCY",
         "result": "Open Call 2026-2027 chiusa: deadline ufficiale 30 settembre 2026 trascorsa.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Rossonove",
@@ -7210,7 +7495,7 @@
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Residenza site-specific Liguria; deadline 31 ottobre, proposta via email.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Tate / Delfina — Brooks",
@@ -7218,7 +7503,7 @@
         "category": "art",
         "status": "SCANNED - NO_MATCH",
         "result": "Fellowship curatoriali su Carrington o supported studios; priorità ridotta rispetto a produzione visuale.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Skowhegan",
@@ -7226,7 +7511,7 @@
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Programma 2027 aperto; fee 25/50 USD e tuition 6.000 USD con borse; portale richiede account.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Jan van Eyck",
@@ -7234,7 +7519,7 @@
         "category": "art",
         "status": "SCANNED - NO_VACANCY",
         "result": "Call residenza 2027 scaduta 4 dicembre 2025; endpoint corretto senza www verificato.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Rijksakademie",
@@ -7242,7 +7527,7 @@
         "category": "art",
         "status": "SCANNED - NO_VACANCY",
         "result": "Call chiusa; prossima apertura dichiarata 1 gennaio 2027.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Gasworks",
@@ -7250,7 +7535,7 @@
         "category": "art",
         "status": "ACCESS_ERROR",
         "result": "Discovery di residenza per artisti in Italia; pagina ufficiale non accessibile, non promossa LIVE.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "The Print Center",
@@ -7258,7 +7543,7 @@
         "category": "art",
         "status": "SCANNED - NO_VACANCY",
         "result": "Concorso fotografia/printmaking scaduto il 18 giugno 2026.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "NYFA Opportunities",
@@ -7266,7 +7551,7 @@
         "category": "art",
         "status": "TO_VERIFY",
         "result": "Filtri pubblici leggibili ma risultati dinamici non estratti; non è prova di assenza di call.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "On the Move",
@@ -7274,7 +7559,7 @@
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Database discovery: EMAP e HBK già verificati; Kino Úsmev segnalato per approfondimento.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Res Artis",
@@ -7282,7 +7567,7 @@
         "category": "art",
         "status": "ACCESS_ERROR",
         "result": "Database non recuperabile con il lettore web.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Viafarini",
@@ -7290,7 +7575,7 @@
         "category": "art",
         "status": "TO_VERIFY",
         "result": "Programma/residenti pubblicati; invio e apertura candidatura corrente non confermati.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Fondazione Bevilacqua La Masa",
@@ -7298,7 +7583,7 @@
         "category": "art",
         "status": "ACCESS_ERROR",
         "result": "Endpoint istituzionale non recuperabile.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "DG Creatività Contemporanea",
@@ -7306,7 +7591,7 @@
         "category": "art",
         "status": "SCANNED - NO_VACANCY",
         "result": "Premio New York scaduto il 18 settembre; nessuna call individuale visuale pertinente verificata sulla pagina letta.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Fondazione Memmo",
@@ -7314,15 +7599,15 @@
         "category": "art",
         "status": "TO_VERIFY",
         "result": "Pagina attività consultata; dettagli bando Gasworks 2027 non confermati sulla primaria.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Spazio Berlendis / Marignana Arte",
         "url": "https://www.spazioberlendis.it/berlendis-venice-art-prize-2027-second-edition-2/",
         "category": "ART ITALIA",
         "status": "SCANNED - OPPORTUNITY_FOUND",
-        "result": "Deadline 8 ottobre confermata sulla pagina ufficiale.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "result": "Form ufficiale ancora attivo; deadline oggi 8 ottobre alle 23:59.",
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Fonderia 20.9",
@@ -7330,7 +7615,7 @@
         "category": "ART ITALIA",
         "status": "SCANNED - NO_VACANCY",
         "result": "VAP 2026 chiusa: deadline ufficiale 30 settembre 2026 alle 23:59 CET trascorsa.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "ZADIK, Universität zu Köln",
@@ -7338,7 +7623,7 @@
         "category": "ART EUROPA",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Deadline ufficiale prorogata al 15 ottobre; candidatura via email.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Premio Castelfiorentino per le Arti",
@@ -7346,7 +7631,7 @@
         "category": "ART ITALIA / FOTOGRAFIA",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Raccont’Arti 2026 ancora promossa dalla fonte ufficiale.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Instagram public discovery (4 profili GRIM)",
@@ -7354,13 +7639,13 @@
         "category": "PUBLIC DISCOVERY",
         "status": "TO_VERIFY",
         "result": "Ricerca web pubblica senza login non ha restituito opportunità indicizzate collegabili con affidabilità ai quattro profili; nessuna rete privata o follower dedotti.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Studio Zookeeper",
         "url": "https://zookeeper.nl/zookeeper-open-call-beeldend-kunstenaar-ontwerper-artist-in-residence/",
         "category": "art",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00",
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00",
         "status": "SCANNED - NO_VACANCY",
         "result": "Open Call #13 chiusa: deadline ufficiale 30 settembre 2026 trascorsa."
       },
@@ -7368,7 +7653,7 @@
         "name": "Museum Rijswijk",
         "url": "https://museumrijswijk.nl/open-call-textiel-biennale",
         "category": "art",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00",
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00",
         "status": "SCANNED - NO_VACANCY",
         "result": "Call chiusa: deadline 1 ottobre 2026, ore 12:00, superata."
       },
@@ -7378,7 +7663,7 @@
         "category": "ART / MOBILITY / CREATIVE EUROPE",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Call 2026–2027 aperta: €85/giorno, viaggio €400/€800, partner internazionale obbligatorio; prima scadenza 31 ottobre 2026.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "COCA PROJECT",
@@ -7386,7 +7671,7 @@
         "category": "ART / FOTOGRAFIA / STREET ART",
         "status": "TO_VERIFY",
         "result": "Edizione 2026–27 con form attivo e pagina che indica 26 marzo 2027; regolamento collegato ancora fermo alla chiusura 20 settembre 2026.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "HIAP — Learning Materials International Artist in Residence 2027",
@@ -7394,7 +7679,7 @@
         "category": "ART / RESIDENCY / MATERIAL PRACTICE",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Nuova residenza di 90 giorni: deadline 26 ottobre ore 15 GMT+2; €4.050 grant, viaggio, alloggio/workspace e fino a €750 materiali.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "European Commission JRC — Decoding Depression",
@@ -7402,7 +7687,7 @@
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Residenza LIVE: deadline 18 ottobre, €15.000 all-inclusive; requisito obbligatorio di esperienza vissuta della depressione.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Art Explora / Cité internationale des arts",
@@ -7410,7 +7695,7 @@
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Residencies 2027 LIVE: deadline 30 ottobre; €1.000/mese, €3.000 produzione, viaggio e studio-abitazione.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "KIBLA / OASis Project",
@@ -7418,7 +7703,15 @@
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Artistic Intelligence LIVE: deadline 19 ottobre; €1.300 lordi, viaggio fino a €300 e alloggio.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
+      },
+      {
+        "name": "European Commission DG RTD / JRC — Shifting Shores",
+        "url": "https://knowledge-for-policy.ec.europa.eu/open-call-artist-residence_en",
+        "category": "art",
+        "status": "SCANNED - OPPORTUNITY_FOUND",
+        "result": "Nuova residenza pubblicata il 7 ottobre: deadline 24 ottobre, budget €15.000 all-inclusive, candidatura via email.",
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       }
     ],
     "graffiti": [
@@ -7428,7 +7721,7 @@
         "category": "graffiti",
         "status": "SCANNED - NO_VACANCY",
         "result": "Call 2026 scaduta il 14 agosto; non inserita tra le LIVE.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Islip Arts Council",
@@ -7436,7 +7729,7 @@
         "category": "GRAFFITI",
         "status": "SCANNED - NO_VACANCY",
         "result": "Permanent Expression chiusa: deadline ufficiale 22 settembre 2026 superata.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Meeting of Styles — rete",
@@ -7444,7 +7737,7 @@
         "category": "graffiti",
         "status": "LOGIN_REQUIRED",
         "result": "Artist registration permanente proposta dalla rete; account e membership $10 annui; area application non verificata senza login.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Meeting of Styles Senegal",
@@ -7452,7 +7745,7 @@
         "category": "GRAFFITI INTERNATIONAL",
         "status": "SCANNED - NO_MATCH",
         "result": "Evento 16-26 ottobre verificato; registrazione esplicitamente riservata agli artisti africani, quindi non compatibile.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Street Art Calls",
@@ -7460,7 +7753,7 @@
         "category": "graffiti",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Discovery Waterford 2027 poi verificata sulla fonte primaria; NUMU scaduta.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Open Brief",
@@ -7468,7 +7761,7 @@
         "category": "graffiti",
         "status": "ACCESS_ERROR",
         "result": "Pagina pubblica caricata; elenco brief non caricato (JavaScript).",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Meeting of Styles Oslo",
@@ -7476,7 +7769,7 @@
         "category": "graffiti",
         "status": "SCANNED - NO_VACANCY",
         "result": "Pagina dichiara open call chiusa; evento luglio già trascorso.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "de Appel — de Nieuwe Meent",
@@ -7484,7 +7777,7 @@
         "category": "graffiti",
         "status": "SCANNED - NO_VACANCY",
         "result": "Mural call scaduta 15 settembre.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Jamestown Arts Festival",
@@ -7492,7 +7785,7 @@
         "category": "graffiti",
         "status": "SCANNED - NO_VACANCY",
         "result": "Competizione scaduta 14 agosto nonostante pagina generale dica aperta; EOI grandi muri non qualificata come commissione certa.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Strassenkunstfestival",
@@ -7500,7 +7793,7 @@
         "category": "graffiti",
         "status": "SCANNED - NO_VACANCY",
         "result": "Call 2026 chiusa; 2027 prevista da dicembre, non ancora aperta.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Stradedarts",
@@ -7508,7 +7801,7 @@
         "category": "graffiti",
         "status": "TO_VERIFY",
         "result": "Rete emersa da discovery pubblica collegata a un profilo pubblico; sito descrive attività, nessuna candidatura specifica aperta confermata.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "INWARD",
@@ -7516,7 +7809,7 @@
         "category": "graffiti",
         "status": "SCANNED - NO_VACANCY",
         "result": "News recenti di progetti già svolti; nessuna call aperta nella pagina consultata.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "SpitJam",
@@ -7524,7 +7817,7 @@
         "category": "graffiti",
         "status": "ACCESS_ERROR",
         "result": "Sito non recuperabile; PDF 2025 emerso in discovery non usato come call attuale.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Upfest",
@@ -7532,7 +7825,7 @@
         "category": "graffiti",
         "status": "SCANNED - NO_VACANCY",
         "result": "Weston Wallz luglio 2026 già svolto; nessuna nuova application nella pagina consultata.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "B-MURALS",
@@ -7540,7 +7833,7 @@
         "category": "graffiti",
         "status": "SCANNED - NO_VACANCY",
         "result": "Open call residenze 2026 scaduta settembre 2025; dicitura OPEN in homepage non sufficiente.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Wallspot",
@@ -7548,7 +7841,7 @@
         "category": "graffiti",
         "status": "ACCESS_ERROR",
         "result": "Sito non recuperabile.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "Nuart Aberdeen",
@@ -7556,7 +7849,7 @@
         "category": "graffiti",
         "status": "ACCESS_ERROR",
         "result": "Sito non recuperabile.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "The Walls Project — Waterford",
@@ -7564,15 +7857,15 @@
         "category": "graffiti",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Waterford Walls 2027 ancora NOW OPEN con form e Submit visibili.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "City of Miami Beach",
         "url": "https://cityofmiamibeach.submittable.com/submit",
         "category": "graffiti",
-        "status": "SCANNED - OPPORTUNITY_FOUND",
-        "result": "G5 Permanent Mural ancora aperta; deadline 8 ottobre e budget 170.000 USD.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "status": "SCANNED - NO_VACANCY",
+        "result": "Portale ufficiale Submittable: 'There are presently no open calls for submissions'. G5 chiusa.",
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       },
       {
         "name": "UP Art Studio — Big Walls Big Dreams",
@@ -7580,7 +7873,7 @@
         "category": "graffiti",
         "status": "ACCESS_ERROR",
         "result": "Endpoint Jotform non recuperabile oggi; opportunità chiusa per deadline verificata del 30 settembre 2026 trascorsa.",
-        "lastCheckedAt": "2026-10-07T07:39:01+02:00"
+        "lastCheckedAt": "2026-10-08T07:52:22+02:00"
       }
     ]
   }
