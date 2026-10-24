@@ -4504,7 +4504,7 @@
       "firstSeen": "2026-10-06",
       "lastVerifiedAt": "2026-10-24T07:43:40+02:00",
       "sourceCheckedAt": "2026-10-24T07:43:40+02:00",
-      "lastChangedAt": "2026-10-06T08:16:10+02:00",
+      "lastChangedAt": "2026-10-24T07:43:40+02:00",
       "deadline": "2026-10-26T15:00:00+02:00",
       "deadlineTimezone": "GMT+2",
       "deadlineEuropeRome": "2026-10-26T14:00:00+01:00",
@@ -4513,8 +4513,8 @@
       "materialsDeadline": null,
       "liveStatus": "LIVE",
       "applicationStatus": "OPEN",
-      "changeType": "UNCHANGED",
-      "changeSummary": null,
+      "changeType": "UPDATED",
+      "changeSummary": "Corretta la conversione Europe/Rome: 26 ottobre alle 14:00 CET, equivalente alle 15:00 GMT+2 pubblicate da HIAP.",
       "tag": "RESIDENCY",
       "isNew": false,
       "summary": "Residenza di 90 giorni per pratiche material-driven e socialmente impegnate, con ricerca senza output obbligatorio.",
@@ -4566,7 +4566,7 @@
       "contactPhone": "+358 45 695 9357",
       "questionsOrContactUrl": "https://www.hiap.fi/open-call/open-call-learning-materials-international-artist-in-residence-2027/",
       "verification": "PRIMARY",
-      "verificationNotes": "Fonte ufficiale HIAP verificata il 24 ottobre: call LIVE, deadline 26 ottobre 2026 alle 15:00 GMT+2; grant €4.050, materiali fino a €750, viaggio, alloggio e workspace.",
+      "verificationNotes": "Fonte ufficiale HIAP verificata il 24 ottobre: call LIVE; deadline originale 26 ottobre alle 15:00 GMT+2, equivalente alle 14:00 CET in Italia dopo il cambio all’ora solare.",
       "applicationEffort": "HIGH",
       "fitScore": 4,
       "fitReason": "Buona compatibilità se il progetto unisce pratica materiale, comunità, workshop e sostenibilità; serve dimostrare una traiettoria già consolidata.",
@@ -8218,7 +8218,7 @@
       "activeGraffiti": 4,
       "newItems": 1,
       "closedItems": 0,
-      "updatedItems": 0
+      "updatedItems": 1
     }
   ],
   "scanLog": {
