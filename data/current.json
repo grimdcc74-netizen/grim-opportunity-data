@@ -1,6 +1,6 @@
 {
   "schemaVersion": "3.0",
-  "generatedAt": "2026-11-08T07:44:38+01:00",
+  "generatedAt": "2026-11-08T07:48:09+01:00",
   "source": "GRIM Opportunity Hub verified feed",
   "opportunities": [
     {
@@ -261,8 +261,8 @@
       "publishedAt": null,
       "publishedDateSource": null,
       "firstSeen": "2026-10-29",
-      "lastVerifiedAt": "2026-11-08T07:44:38+01:00",
-      "liveStatus": "CLOSED",
+      "lastVerifiedAt": "2026-11-08T07:48:09+01:00",
+      "liveStatus": "LIVE",
       "tag": "OPEN_CALL",
       "isNew": false,
       "matchedSkills": [
@@ -286,10 +286,10 @@
       "verification": "PRIMARY",
       "country": "Spagna",
       "city": "Barcellona",
-      "sourceCheckedAt": "2026-11-08T07:44:38+01:00",
-      "lastChangedAt": "2026-11-08T07:44:38+01:00",
-      "applicationStatus": "CLOSED",
-      "changeType": "CLOSED",
+      "sourceCheckedAt": "2026-11-08T07:48:09+01:00",
+      "lastChangedAt": "2026-11-08T07:48:09+01:00",
+      "applicationStatus": "OPEN",
+      "changeType": "UPDATED",
       "sourceType": "OFFICIAL_CALL",
       "applicationMethod": "FORM",
       "applicationPortal": "Google Forms",
@@ -333,20 +333,20 @@
       "category": "Experimental Photography / Residency",
       "summary": "Otto giorni di residenza per sei artisti dedicati a sperimentazione fotografica, scambio di processi e workshop teorico-pratici.",
       "relevance": "Pertinente per fotografia sperimentale e ricerca sull’immagine, ma è una residenza a pagamento.",
-      "directApplyUrl": null,
+      "directApplyUrl": "https://docs.google.com/forms/d/e/1FAIpQLScd1PXSDpV4mKWF8oEGSLafyrgCDbHyvcAu_I1JjEC863GMwg/viewform?usp=send_form",
       "sourceUrl": "https://www.experimentalphotofestival.com/residencia",
       "canonicalUrl": "https://www.experimentalphotofestival.com/residencia",
-      "applicationUrl": null,
-      "deadline": "2026-11-07T23:59:00+01:00",
-      "deadlineEuropeRome": "2026-11-07T23:59:00+01:00",
-      "daysRemaining": -1,
-      "urgency": "CLOSED",
+      "applicationUrl": "https://docs.google.com/forms/d/e/1FAIpQLScd1PXSDpV4mKWF8oEGSLafyrgCDbHyvcAu_I1JjEC863GMwg/viewform?usp=send_form",
+      "deadline": "2026-11-23T23:59:00+01:00",
+      "deadlineEuropeRome": "2026-11-23T23:59:00+01:00",
+      "daysRemaining": 15,
+      "urgency": "ACTIVE",
       "applicationFeeAmount": 500,
       "applicationFeeCurrency": "EUR",
       "salaryOrCompensation": "Alloggio e colazione inclusi; materiali workshop e accesso festival inclusi; nessun compenso monetario.",
       "contactEmail": "experimentalphotofestival@gmail.com",
-      "changeSummary": "Deadline ufficiale del 7 novembre 2026 superata.",
-      "verificationNotes": "Pagina ufficiale verificata l’8 novembre 2026: la call indicava apertura fino al 7 novembre; la scadenza è superata.",
+      "changeSummary": "Deadline prorogata dal 7 al 23 novembre 2026; form ufficiale ancora attivo.",
+      "verificationNotes": "Pagina ufficiale verificata l’8 novembre 2026: la call è aperta fino al 23 novembre e il modulo ufficiale è ancora attivo.",
       "displayOrder": 4
     },
     {
@@ -14493,15 +14493,15 @@
     {
       "date": "2026-11-08",
       "activeWork": 94,
-      "activeArt": 19,
+      "activeArt": 20,
       "activeGraffiti": 8,
       "newItems": 20,
-      "closedItems": 1,
-      "updatedItems": 3
+      "closedItems": 0,
+      "updatedItems": 4
     }
   ],
   "scanLog": {
-    "lastRunAt": "2026-11-08T07:44:38+01:00",
+    "lastRunAt": "2026-11-08T07:48:09+01:00",
     "workItaly": [
       {
         "name": "EDI — Zoho Recruit",
@@ -15447,9 +15447,9 @@
         "name": "Experimental Photo Festival — Residency 2027",
         "url": "https://www.experimentalphotofestival.com/residencia",
         "category": "ART / PHOTOGRAPHY / RESIDENCY",
-        "status": "SCANNED - OPPORTUNITY_CLOSED",
-        "result": "CLOSED: deadline ufficiale 7 novembre superata.",
-        "lastCheckedAt": "2026-11-08T07:44:38+01:00"
+        "status": "SCANNED - OPPORTUNITY_FOUND",
+        "result": "UPDATED: deadline prorogata al 23 novembre 2026; form ufficiale attivo.",
+        "lastCheckedAt": "2026-11-08T07:48:09+01:00"
       },
       {
         "name": "IN SITU PLATFORM Open Call #3",
