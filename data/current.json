@@ -1,6 +1,6 @@
 {
   "schemaVersion": "3.0",
-  "generatedAt": "2026-11-12T08:03:37+01:00",
+  "generatedAt": "2026-11-13T07:49:00+01:00",
   "source": "GRIM Opportunity Hub verified feed",
   "opportunities": [
     {
@@ -340,7 +340,7 @@
       "deadline": "2026-11-23T23:59:00+01:00",
       "deadlineEuropeRome": "2026-11-23T23:59:00+01:00",
       "daysRemaining": 11,
-      "urgency": "UPCOMING",
+      "urgency": "NORMAL",
       "applicationFeeAmount": 500,
       "applicationFeeCurrency": "EUR",
       "salaryOrCompensation": "Alloggio e colazione inclusi; materiali workshop e accesso festival inclusi; nessun compenso monetario.",
@@ -1050,7 +1050,7 @@
       "deadlineTimezone": "MST",
       "deadlineEuropeRome": "2026-11-19T07:59:00+01:00",
       "daysRemaining": 7,
-      "urgency": "UPCOMING",
+      "urgency": "SOON",
       "materialsDeadline": null,
       "liveStatus": "LIVE",
       "applicationStatus": "OPEN",
@@ -1328,7 +1328,7 @@
       "deadlineTimezone": "CET",
       "deadlineEuropeRome": "2026-11-30T23:59:00+01:00",
       "daysRemaining": 18,
-      "urgency": "OPEN",
+      "urgency": "NORMAL",
       "materialsDeadline": null,
       "liveStatus": "LIVE",
       "applicationStatus": "OPEN",
@@ -2551,8 +2551,8 @@
       "deadline": "2026-12-09T00:00:00+01:00",
       "deadlineTimezone": "CET",
       "deadlineEuropeRome": "2026-12-09T00:00:00+01:00",
-      "daysRemaining": 27,
-      "urgency": "OPEN",
+      "daysRemaining": 26,
+      "urgency": "NORMAL",
       "materialsDeadline": null,
       "applicationFeeAmount": 0,
       "applicationFeeCurrency": "EUR",
@@ -3064,7 +3064,7 @@
       "deadlineTimezone": null,
       "deadlineEuropeRome": "2026-11-22",
       "daysRemaining": 10,
-      "urgency": "UPCOMING",
+      "urgency": "NORMAL",
       "eligibility": [
         "Artista visivo internazionale professionista e riconosciuto.",
         "Età minima 25 anni.",
@@ -4842,7 +4842,7 @@
       "deadlineTimezone": "Europe/Rome",
       "deadlineEuropeRome": "2027-03-26",
       "daysRemaining": 134,
-      "urgency": "OPEN",
+      "urgency": "NORMAL",
       "requiredLanguageLevel": null,
       "materialsDeadline": null,
       "applicationFeeAmount": 67,
@@ -6240,7 +6240,7 @@
       "deadlineTimezone": "Europe/Rome",
       "deadlineEuropeRome": "2028-09-30T23:59:00+02:00",
       "daysRemaining": 688,
-      "urgency": "OPEN",
+      "urgency": "NORMAL",
       "requiredLanguageLevel": null,
       "materialsDeadline": null,
       "applicationFeeAmount": 5,
@@ -6647,7 +6647,7 @@
       "deadlineTimezone": "EST",
       "deadlineEuropeRome": "2026-12-02T05:59:00+01:00",
       "daysRemaining": 20,
-      "urgency": "OPEN",
+      "urgency": "NORMAL",
       "liveStatus": "LIVE",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -11550,7 +11550,7 @@
       "deadlineTimezone": "Europe/Rome",
       "deadlineEuropeRome": "2026-11-30T23:59:00+01:00",
       "daysRemaining": 18,
-      "urgency": "OPEN",
+      "urgency": "NORMAL",
       "applicationOpenDate": "2026-11-01",
       "materialsDeadline": null,
       "funding": "Alloggio, spazi di lavoro e compenso mensile di 500 EUR per sei mesi; formazione, tutoraggio e produzione site-specific.",
@@ -11637,7 +11637,7 @@
       "deadlineTimezone": "Europe/Rome",
       "deadlineEuropeRome": "2026-12-15T23:59:00+01:00",
       "daysRemaining": 33,
-      "urgency": "OPEN",
+      "urgency": "NORMAL",
       "applicationOpenDate": null,
       "materialsDeadline": null,
       "funding": "Non esposto nella pagina pubblica; da verificare nelle linee guida.",
@@ -11728,7 +11728,7 @@
       "deadlineTimezone": "America/Denver",
       "deadlineEuropeRome": "2027-02-27T07:59:00+01:00",
       "daysRemaining": 107,
-      "urgency": "OPEN",
+      "urgency": "NORMAL",
       "applicationOpenDate": "2026-11-01",
       "materialsDeadline": null,
       "funding": "150 USD artist fee; spray paint e materiali forniti dal festival.",
@@ -14090,7 +14090,7 @@
       "deadlineTimezone": "America/Denver",
       "deadlineEuropeRome": "2026-11-16T07:59:00+01:00",
       "daysRemaining": 4,
-      "urgency": "UPCOMING",
+      "urgency": "SOON",
       "applicationOpenDate": null,
       "materialsDeadline": null,
       "funding": "Roster per future commissioni; budget definito separatamente per ciascun progetto.",
@@ -14173,7 +14173,7 @@
       "deadlineTimezone": "GMT",
       "deadlineEuropeRome": "2026-11-16T00:59:00+01:00",
       "daysRemaining": 4,
-      "urgency": "UPCOMING",
+      "urgency": "SOON",
       "applicationOpenDate": null,
       "materialsDeadline": null,
       "funding": "€2.000 inclusivi per quattro settimane, alloggio-studio, supporto tecnico e accesso alle strutture.",
@@ -15645,7 +15645,7 @@
       "employmentType": "Full-time",
       "publishedDateSource": "Posting Prada Group su LinkedIn: 1 settimana fa",
       "firstSeen": "2026-11-11",
-      "lastVerifiedAt": "2026-11-12T08:03:37+01:00",
+      "lastVerifiedAt": "2026-11-13T07:49:00+01:00",
       "liveStatus": "LIVE",
       "tag": "JOB",
       "isNew": false,
@@ -15669,7 +15669,7 @@
       "verification": "PRIMARY",
       "country": "Italia",
       "city": "Milano",
-      "sourceCheckedAt": "2026-11-12T08:03:37+01:00",
+      "sourceCheckedAt": "2026-11-13T07:49:00+01:00",
       "lastChangedAt": "2026-11-11T07:35:57+01:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -15749,7 +15749,7 @@
       "employmentType": "Non specificato",
       "publishedDateSource": "Data non esposta dalla fonte ufficiale",
       "firstSeen": "2026-11-11",
-      "lastVerifiedAt": "2026-11-12T08:03:37+01:00",
+      "lastVerifiedAt": "2026-11-13T07:49:00+01:00",
       "liveStatus": "LIVE",
       "tag": "JOB",
       "isNew": false,
@@ -15772,7 +15772,7 @@
       "verification": "PRIMARY",
       "country": "Regno Unito",
       "city": "Londra",
-      "sourceCheckedAt": "2026-11-12T08:03:37+01:00",
+      "sourceCheckedAt": "2026-11-13T07:49:00+01:00",
       "lastChangedAt": "2026-11-11T07:35:57+01:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -15846,7 +15846,7 @@
       "employmentType": "Entry-level",
       "publishedDateSource": "Pagina ufficiale indicizzata sei giorni prima della verifica",
       "firstSeen": "2026-11-11",
-      "lastVerifiedAt": "2026-11-12T08:03:37+01:00",
+      "lastVerifiedAt": "2026-11-13T07:49:00+01:00",
       "liveStatus": "LIVE",
       "tag": "JOB",
       "isNew": false,
@@ -15869,7 +15869,7 @@
       "verification": "PRIMARY",
       "country": "Regno Unito",
       "city": "Londra",
-      "sourceCheckedAt": "2026-11-12T08:03:37+01:00",
+      "sourceCheckedAt": "2026-11-13T07:49:00+01:00",
       "lastChangedAt": "2026-11-11T07:35:57+01:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -16221,7 +16221,7 @@
       "deadline": "2026-12-15T23:59:00+01:00",
       "deadlineEuropeRome": "2026-12-15T23:59:00+01:00",
       "daysRemaining": 33,
-      "urgency": "OPEN",
+      "urgency": "NORMAL",
       "applicationFeeAmount": 0,
       "applicationFeeCurrency": "EUR",
       "salaryOrCompensation": "Nessuna fee di candidatura; premi e condizioni di selezione secondo regolamento.",
@@ -16240,10 +16240,10 @@
       "employmentType": "Contratto di progetto / Long-term",
       "publishedDateSource": "Posting employer su LinkedIn: 1 settimana prima della verifica",
       "firstSeen": "2026-11-12",
-      "lastVerifiedAt": "2026-11-12T08:03:37+01:00",
+      "lastVerifiedAt": "2026-11-13T07:49:00+01:00",
       "liveStatus": "LIVE",
       "tag": "JOB",
-      "isNew": true,
+      "isNew": false,
       "matchedSkills": [
         "VFX cinematografici",
         "Generative AI",
@@ -16268,10 +16268,10 @@
       "verification": "PRIMARY",
       "country": "Spagna / Remoto",
       "city": "Madrid",
-      "sourceCheckedAt": "2026-11-12T08:03:37+01:00",
+      "sourceCheckedAt": "2026-11-13T07:49:00+01:00",
       "lastChangedAt": "2026-11-12T08:03:37+01:00",
       "applicationStatus": "OPEN",
-      "changeType": "NEW",
+      "changeType": "UNCHANGED",
       "sourceType": "EMPLOYER_SOCIAL",
       "applicationMethod": "EMAIL",
       "applicationPortal": null,
@@ -16331,7 +16331,7 @@
       "canonicalUrl": "https://es.linkedin.com/jobs/view/senior-ai-vfx-artists-for-a-live-action-feature-film-at-sapient-art-4483491862",
       "applicationUrl": "mailto:team@sapientart.com?subject=Senior%20AI%2FVFX%20Artist",
       "directApplyUrl": "mailto:team@sapientart.com?subject=Senior%20AI%2FVFX%20Artist",
-      "changeSummary": "Nuova opportunità verificata il 12 novembre 2026.",
+      "changeSummary": null,
       "verificationNotes": "Posting employer su LinkedIn verificato il 12 novembre 2026: remoto, lungo periodo fine 2026–2028; candidatura diretta via email.",
       "displayOrder": 187,
       "fitScore": 5,
@@ -16346,10 +16346,10 @@
       "publishedAt": "2026-10-26",
       "publishedDateSource": "Pagina ufficiale Greylight Projects",
       "firstSeen": "2026-11-12",
-      "lastVerifiedAt": "2026-11-12T08:03:37+01:00",
+      "lastVerifiedAt": "2026-11-13T07:49:00+01:00",
       "liveStatus": "LIVE",
       "tag": "OPEN_CALL",
-      "isNew": true,
+      "isNew": false,
       "matchedSkills": [
         "Visual art",
         "Installation",
@@ -16373,10 +16373,10 @@
       "verification": "PRIMARY",
       "country": "Paesi Bassi",
       "city": "Heerlen",
-      "sourceCheckedAt": "2026-11-12T08:03:37+01:00",
+      "sourceCheckedAt": "2026-11-13T07:49:00+01:00",
       "lastChangedAt": "2026-11-12T08:03:37+01:00",
       "applicationStatus": "OPEN",
-      "changeType": "NEW",
+      "changeType": "UNCHANGED",
       "sourceType": "OFFICIAL_CALL",
       "applicationMethod": "EMAIL",
       "applicationPortal": null,
@@ -16431,13 +16431,362 @@
       "applicationFeeCurrency": "EUR",
       "salaryOrCompensation": "€900 al mese per ricerca e produzione + €500 per le presentazioni; studio/alloggio incluso.",
       "contactEmail": "opencall@greylightprojects.org",
-      "changeSummary": "Nuova opportunità verificata il 12 novembre 2026.",
+      "changeSummary": null,
       "verificationNotes": "Fonte ufficiale verificata il 12 novembre: deadline 15 novembre a mezzanotte, grant e condizioni confermati.",
       "displayOrder": 188,
       "fitScore": 4,
       "fitReason": "Residenza interdisciplinare concreta con alloggio-studio, sostegno mensile e presentazioni retribuite.",
       "dealBreakers": [],
       "funding": "€900/mese per tre mesi, €500 aggiuntivi per due presentazioni, studio/alloggio di circa 40 m²."
+    },
+    {
+      "area": "work",
+      "score": 5,
+      "country": "Paesi Bassi / Remoto",
+      "city": "Amsterdam",
+      "firstSeen": "2026-11-13",
+      "lastVerifiedAt": "2026-11-13T07:49:00+01:00",
+      "liveStatus": "LIVE",
+      "tag": "JOB",
+      "isNew": true,
+      "verification": "PRIMARY",
+      "sourceCheckedAt": "2026-11-13T07:49:00+01:00",
+      "lastChangedAt": "2026-11-13T07:49:00+01:00",
+      "applicationStatus": "OPEN",
+      "changeType": "NEW",
+      "sourceType": "ATS",
+      "applicationMethod": "FORM",
+      "applicationPortal": "Recruitee",
+      "requiresAccount": false,
+      "deadline": null,
+      "deadlineTimezone": null,
+      "deadlineEuropeRome": null,
+      "daysRemaining": null,
+      "urgency": "NO_DEADLINE",
+      "materialsDeadline": null,
+      "applicationFeeAmount": 0,
+      "applicationFeeCurrency": "EUR",
+      "contactStatus": "AVAILABLE",
+      "contactName": null,
+      "contactRole": "Recruitment Department",
+      "contactEmail": "jobs@indg.com",
+      "contactPhone": null,
+      "questionsOrContactUrl": "https://jobs.indg.com/faq",
+      "requiredLanguages": [
+        "Inglese"
+      ],
+      "requiredLanguageLevel": null,
+      "applicationOpenDate": null,
+      "dealBreakers": [],
+      "funding": null,
+      "id": "work-indg-generative-ai-artist-fashion-freelance",
+      "displayOrder": 189,
+      "title": "Generative AI Artist Fashion - Freelance",
+      "org": "INDG",
+      "location": "Remoto; Amsterdam, Paesi Bassi",
+      "remotePolicy": "Remote",
+      "employmentType": "Freelance",
+      "category": "Generative AI / CGI / Fashion Content",
+      "publishedAt": null,
+      "publishedDateSource": "Career page ufficiale INDG verificata il 13 novembre 2026",
+      "summary": "Ruolo freelance per costruire e gestire workflow generativi ripetibili destinati a fashion, sportswear, immagini prodotto e campagne commerciali.",
+      "relevance": "Match molto alto con produzione visiva, CGI, controllo qualità, image-to-image e workflow AI applicati a contenuti reali.",
+      "matchedSkills": [
+        "Generative AI",
+        "CGI",
+        "ComfyUI",
+        "Image-to-image",
+        "Inpainting",
+        "Outpainting",
+        "Upscaling",
+        "LoRA",
+        "ControlNet",
+        "Visual QA",
+        "Adobe/Post-production"
+      ],
+      "gaps": [
+        "Richiesta esperienza pratica con ComfyUI o sistemi node-based equivalenti",
+        "Serve portfolio di immagini commerciali e workflow ripetibili",
+        "Collaborazione freelance: verificare compatibilità con NASpI e assenza di Partita IVA"
+      ],
+      "materials": [
+        "CV in inglese",
+        "Portfolio link",
+        "Cover letter facoltativa"
+      ],
+      "materialsFormat": [
+        "CV: PDF, DOC, DOCX, JPEG o PNG; massimo 50 MB",
+        "Portfolio tramite link"
+      ],
+      "requiredExperience": "Esperienza pratica con ComfyUI o sistemi generativi node-based e produzione di immagini commerciali",
+      "requiredSoftware": [
+        "ComfyUI",
+        "Diffusion models",
+        "LoRA",
+        "ControlNet",
+        "Inpainting/Outpainting",
+        "Upscaling",
+        "Masking"
+      ],
+      "sourceUrl": "https://jobs.indg.com/o/generative-ai-artist-fashion-freelance",
+      "canonicalUrl": "https://jobs.indg.com/o/generative-ai-artist-fashion-freelance",
+      "applicationUrl": "https://jobs.indg.com/o/generative-ai-artist-fashion-freelance/c/new",
+      "directApplyUrl": "https://jobs.indg.com/o/generative-ai-artist-fashion-freelance/c/new",
+      "applicationSteps": [
+        "Aprire il form ufficiale.",
+        "Caricare CV in inglese.",
+        "Inserire il link al portfolio.",
+        "Indicare disponibilità, località e preferenza full-time.",
+        "Inviare il modulo."
+      ],
+      "eligibility": [
+        "Portfolio di immagini commerciali di qualità",
+        "Esperienza con workflow generativi controllati e ripetibili"
+      ],
+      "compensationAmount": null,
+      "compensationCurrency": null,
+      "compensationType": null,
+      "salaryOrCompensation": "Non pubblicato",
+      "applicationEffort": "MEDIUM",
+      "fitScore": 5,
+      "materialsFitScore": 4,
+      "priorityScore": 5,
+      "applicationReadiness": "HIGH",
+      "fitReason": "Combina CGI, AI generativa, ComfyUI e controllo fotografico/commerciale, in modalità remota.",
+      "changeSummary": "Nuova opportunità verificata il 13 novembre 2026.",
+      "verificationNotes": "Career page e form ufficiali verificati: remoto, freelance, candidatura attiva con CV e portfolio."
+    },
+    {
+      "area": "work",
+      "score": 5,
+      "country": "Paesi Bassi / Remoto",
+      "city": "Amsterdam",
+      "firstSeen": "2026-11-13",
+      "lastVerifiedAt": "2026-11-13T07:49:00+01:00",
+      "liveStatus": "LIVE",
+      "tag": "JOB",
+      "isNew": true,
+      "verification": "PRIMARY",
+      "sourceCheckedAt": "2026-11-13T07:49:00+01:00",
+      "lastChangedAt": "2026-11-13T07:49:00+01:00",
+      "applicationStatus": "OPEN",
+      "changeType": "NEW",
+      "sourceType": "ATS",
+      "applicationMethod": "FORM",
+      "applicationPortal": "Recruitee",
+      "requiresAccount": false,
+      "deadline": null,
+      "deadlineTimezone": null,
+      "deadlineEuropeRome": null,
+      "daysRemaining": null,
+      "urgency": "NO_DEADLINE",
+      "materialsDeadline": null,
+      "applicationFeeAmount": 0,
+      "applicationFeeCurrency": "EUR",
+      "contactStatus": "AVAILABLE",
+      "contactName": null,
+      "contactRole": "Recruitment Department",
+      "contactEmail": "jobs@indg.com",
+      "contactPhone": null,
+      "questionsOrContactUrl": "https://jobs.indg.com/faq",
+      "requiredLanguages": [
+        "Inglese"
+      ],
+      "requiredLanguageLevel": null,
+      "applicationOpenDate": null,
+      "dealBreakers": [],
+      "funding": null,
+      "id": "work-indg-cg-art-director-ai-driven",
+      "displayOrder": 190,
+      "title": "CG Art Director (AI-Driven)",
+      "org": "INDG",
+      "location": "Remoto oppure Amsterdam/Bucarest",
+      "remotePolicy": "Remote / Amsterdam / Bucharest",
+      "employmentType": "Full-time",
+      "category": "CG Art Direction / AI-Assisted Production",
+      "publishedAt": null,
+      "publishedDateSource": "Career page ufficiale INDG verificata il 13 novembre 2026",
+      "summary": "Direzione visiva di still, animazioni ed esperienze prodotto interattive, integrando CGI, virtual shooting e workflow AI-assistiti per brand globali.",
+      "relevance": "Match molto alto con 25 anni di VFX/CG, art direction, composizione, lighting, look development e produzione AI.",
+      "matchedSkills": [
+        "Art Direction",
+        "CGI",
+        "AI-assisted workflows",
+        "Storyboarding",
+        "Lighting",
+        "Composition",
+        "Look Development",
+        "Compositing",
+        "Visual QA",
+        "Client presentation"
+      ],
+      "gaps": [
+        "Richiesti almeno 5 anni specifici in art direction",
+        "Portfolio/reel deve mostrare direzione visiva e lavoro CGI/AI",
+        "Ruolo full-time con candidatura e materiali in inglese"
+      ],
+      "materials": [
+        "CV o resume in inglese",
+        "Portfolio / reel",
+        "Cover letter in inglese",
+        "Esempio di lavoro AI con spiegazione del contributo personale"
+      ],
+      "materialsFormat": [
+        "CV e cover letter: PDF, DOC, DOCX, JPEG o PNG; massimo 50 MB",
+        "Portfolio tramite link"
+      ],
+      "requiredExperience": "5+ anni in art direction, preferibilmente CGI, product visualization, digital production o agenzia",
+      "requiredSoftware": [
+        "3D pipeline",
+        "Virtual production",
+        "Digital lighting",
+        "Materials",
+        "Rendering",
+        "Compositing",
+        "Magnific",
+        "ComfyUI o equivalenti"
+      ],
+      "sourceUrl": "https://jobs.indg.com/o/cg-art-director-ai-driven",
+      "canonicalUrl": "https://jobs.indg.com/o/cg-art-director-ai-driven",
+      "applicationUrl": "https://jobs.indg.com/o/cg-art-director-ai-driven",
+      "directApplyUrl": "https://jobs.indg.com/o/cg-art-director-ai-driven",
+      "applicationSteps": [
+        "Aprire il form ufficiale.",
+        "Caricare CV, portfolio e cover letter in inglese.",
+        "Descrivere un progetto AI, strumenti usati e contributo personale.",
+        "Indicare località di lavoro e software utilizzati.",
+        "Inviare il modulo."
+      ],
+      "eligibility": [
+        "5+ anni di art direction",
+        "Solida conoscenza pratica delle pipeline 3D",
+        "Esperienza con strumenti AI creativi"
+      ],
+      "compensationAmount": null,
+      "compensationCurrency": null,
+      "compensationType": null,
+      "salaryOrCompensation": "Non pubblicato",
+      "applicationEffort": "MEDIUM",
+      "fitScore": 5,
+      "materialsFitScore": 4,
+      "priorityScore": 5,
+      "applicationReadiness": "HIGH",
+      "fitReason": "Ruolo coerente con esperienza senior VFX/CG e direzione visiva, con uso concreto di ComfyUI e AI nella produzione.",
+      "changeSummary": "Nuova opportunità verificata il 13 novembre 2026.",
+      "verificationNotes": "Career page e form ufficiali verificati: remoto disponibile, full-time, 5+ anni di art direction, CGI e AI-assistita."
+    },
+    {
+      "area": "art",
+      "score": 5,
+      "employmentType": "Artist residency",
+      "publishedAt": "2026-11-06",
+      "publishedDateSource": "Pagina ufficiale ARCHAIVE",
+      "firstSeen": "2026-11-13",
+      "lastVerifiedAt": "2026-11-13T07:49:00+01:00",
+      "liveStatus": "LIVE",
+      "tag": "OPEN_CALL",
+      "isNew": true,
+      "matchedSkills": [
+        "Generative AI",
+        "Media art",
+        "Cultural memory",
+        "Digital archives",
+        "Moving image",
+        "Installation",
+        "Technical documentation"
+      ],
+      "gaps": [
+        "Call rivolta a profili emerging o mid-career: l’esperienza senior va presentata come pratica artistica in evoluzione",
+        "Tutti i materiali devono essere in inglese",
+        "Video di presentazione obbligatorio massimo 1 minuto",
+        "Viaggio e alloggio non ancora confermati"
+      ],
+      "materials": [
+        "Proposta scritta massimo 2 pagine",
+        "Statement sull’uso dell’AI massimo 300 parole",
+        "Portfolio fino a 4 lavori",
+        "Video presentazione massimo 1 minuto",
+        "CV massimo 1 pagina"
+      ],
+      "verification": "PRIMARY",
+      "country": "Europa",
+      "city": "Milano / Reus / Alcoutim / Hilversum / Berlino",
+      "sourceCheckedAt": "2026-11-13T07:49:00+01:00",
+      "lastChangedAt": "2026-11-13T07:49:00+01:00",
+      "applicationStatus": "OPEN",
+      "changeType": "NEW",
+      "sourceType": "OFFICIAL_CALL",
+      "applicationMethod": "PORTAL",
+      "applicationPortal": "Microsoft CMT",
+      "requiresAccount": true,
+      "deadlineTimezone": "Europe/Paris",
+      "requiredLanguageLevel": "Materiali e video in inglese",
+      "materialsDeadline": null,
+      "compensationAmount": 5000,
+      "compensationCurrency": "EUR",
+      "compensationType": "ARTIST_FEE",
+      "contactStatus": "AVAILABLE",
+      "contactName": null,
+      "contactRole": "Open Call team",
+      "contactEmail": "call@archaive.eu",
+      "contactPhone": null,
+      "questionsOrContactUrl": "https://archaive.eu/news/international-open-call-for-artists/",
+      "applicationEffort": "HIGH",
+      "applicationSteps": [
+        "Creare o accedere a un account Microsoft CMT.",
+        "Scegliere una challenge primaria e una secondaria facoltativa.",
+        "Ordinare tre sedi preferite.",
+        "Caricare proposta, portfolio, video e CV in inglese.",
+        "Inviare entro il 7 dicembre alle 23:55 CET."
+      ],
+      "eligibility": [
+        "Artisti emerging o mid-career di almeno 18 anni",
+        "Nazionalità o residenza in un Paese Creative Europe",
+        "Progetto artistico con coinvolgimento critico o creativo dell’AI"
+      ],
+      "requiredLanguages": [
+        "Inglese"
+      ],
+      "materialsFormat": [
+        "Proposta PDF massimo 2 pagine",
+        "Portfolio PDF o link, massimo 4 lavori",
+        "Video MP4 massimo 1 minuto e 100 MB",
+        "CV PDF massimo 1 pagina"
+      ],
+      "remotePolicy": "Residenze in presenza, ibride o con componente remota secondo la sede",
+      "requiredExperience": "Pratica emerging o mid-career",
+      "requiredSoftware": [
+        "Strumenti o modelli AI coerenti con il progetto; da dichiarare e documentare"
+      ],
+      "applicationOpenDate": "2026-11-06",
+      "id": "art-archaive-ai-cultural-memory-residencies-2027",
+      "displayOrder": 191,
+      "title": "ARCHAIVE — International Open Call for Artists 2026/27",
+      "org": "ARCHAIVE consortium",
+      "location": "Cinque sedi europee, inclusa MEET Digital Culture Center, Milano",
+      "category": "Generative AI / Media Art / Cultural Memory / Residency",
+      "summary": "Diciotto residenze transnazionali per sviluppare opere digitali a partire da archivi di media art, interrogando criticamente l’AI generativa e la memoria culturale.",
+      "relevance": "Match eccezionale fra pratica artistica, AI generativa, cultura visiva, moving image e Milano; la sede MEET offre una residenza ibrida.",
+      "sourceUrl": "https://archaive.eu/news/international-open-call-for-artists/",
+      "canonicalUrl": "https://archaive.eu/news/international-open-call-for-artists/",
+      "applicationUrl": "https://cmt3.research.microsoft.com/User/Login?ReturnUrl=/Archaive2026",
+      "directApplyUrl": "https://cmt3.research.microsoft.com/User/Login?ReturnUrl=/Archaive2026",
+      "deadline": "2026-12-07T23:55:00+01:00",
+      "deadlineEuropeRome": "2026-12-07T23:55:00+01:00",
+      "daysRemaining": 25,
+      "urgency": "NORMAL",
+      "applicationFeeAmount": 0,
+      "applicationFeeCurrency": "EUR",
+      "salaryOrCompensation": "€5.000 di artist fee; viaggio e alloggio da confermare.",
+      "changeSummary": "Nuova opportunità verificata il 13 novembre 2026.",
+      "verificationNotes": "Call e portale ufficiali verificati: 18 artisti, cinque host europei, deadline 7 dicembre 23:55 CET.",
+      "fitScore": 5,
+      "materialsFitScore": 3,
+      "priorityScore": 5,
+      "applicationReadiness": "MEDIUM",
+      "fitReason": "Integra AI, archivi, memoria culturale e media art con una possibile residenza ibrida al MEET di Milano.",
+      "dealBreakers": [],
+      "funding": "€5.000 per artista; supporto curatoriale, almeno 10 ore di mentoring tecnico e accesso agli archivi."
     }
   ],
   "history": [
@@ -16862,10 +17211,19 @@
       "newItems": 2,
       "closedItems": 0,
       "updatedItems": 0
+    },
+    {
+      "date": "2026-11-13",
+      "activeWork": 117,
+      "activeArt": 21,
+      "activeGraffiti": 9,
+      "newItems": 3,
+      "closedItems": 0,
+      "updatedItems": 0
     }
   ],
   "scanLog": {
-    "lastRunAt": "2026-11-12T08:03:37+01:00",
+    "lastRunAt": "2026-11-13T07:49:00+01:00",
     "workItaly": [
       {
         "name": "EDI — Zoho Recruit",
@@ -16873,7 +17231,7 @@
         "category": "workItaly",
         "status": "SCANNED - OPPORTUNITIES_FOUND",
         "result": "ATS italiano verificato integralmente: nuove vacancy Senior Digital Matte Painter, Senior Compositor, 3D Generalist Senior, Mid Lighting Artist, Lookdev Artist Senior e Generative Artist; 2D spontanea non più visibile e mantenuta TO_VERIFY.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "22DOGS",
@@ -16881,7 +17239,7 @@
         "category": "workItaly",
         "status": "ACCESS_ERROR",
         "result": "Fonte controllata ma non recuperabile integralmente oggi; nessuna chiusura inferita senza prova.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Proxima Milano",
@@ -16889,7 +17247,7 @@
         "category": "workItaly",
         "status": "SCANNED - ACCESS_LIMIT",
         "result": "Pagina career raggiungibile ma il contenuto della vacancy non è renderizzato; nessuna chiusura senza prova.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "BAND VFX",
@@ -16897,7 +17255,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Contatti generali trovati; endpoint specifico recruiting non verificato.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Square",
@@ -16905,7 +17263,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Pagina invita a candidarsi; modulo non verificato nell'estrazione.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "FLUXX",
@@ -16913,7 +17271,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Redirect alla homepage; canale di candidatura non confermato.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Jyamma Games",
@@ -16921,7 +17279,7 @@
         "category": "WORK MILANO / ITALIA",
         "status": "SCANNED - NO_VACANCY",
         "result": "La pagina elenco mostra Senior Mid VFX Artist, ma la scheda collegata dichiara esplicitamente 'This listing has expired'.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Hypercube VFX",
@@ -16929,7 +17287,7 @@
         "category": "workItaly",
         "status": "SCANNED - OPPORTUNITIES_FOUND",
         "result": "Quattro ruoli ufficiali aperti, remoto o Roma; inseriti AI generativa, CGI e ambienti, compositing e roto.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Rainbow CGI",
@@ -16937,7 +17295,7 @@
         "category": "workItaly",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Candidatura spontanea esplicita via recruiting@rbw-cgi.it con CV e reel.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Maga Animation",
@@ -16945,7 +17303,7 @@
         "category": "workItaly",
         "status": "SCANNED - NO_MATCH",
         "result": "Real-time Technical Director orientato scripting/Unreal/Unity/Python e IT Specialist: prevalenza tecnica, de-prioritizzati.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Alps Studios",
@@ -16953,7 +17311,7 @@
         "category": "workItaly",
         "status": "ACCESS_ERROR",
         "result": "Fonte controllata ma non recuperabile integralmente oggi; nessuna chiusura inferita senza prova.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Uchi VFX",
@@ -16961,7 +17319,7 @@
         "category": "workItaly",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Candidatura spontanea freelance full remote; form include DMP, concept, art direction e supervisione.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Frame by Frame",
@@ -16969,7 +17327,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Reparto VFX verificato; nessun endpoint specifico recruiting confermato nella pagina.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Taxfreefilm",
@@ -16977,7 +17335,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Contatti generali; invito specifico a candidature non verificato.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Alkanoids",
@@ -16985,7 +17343,7 @@
         "category": "workItaly",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Invito permanente a inviare portfolio a jobs@alkanoids.it.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Dadomani",
@@ -16993,7 +17351,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Portfolio e contatto generale; canale candidature specifico non verificato.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Mammafotogramma",
@@ -17001,7 +17359,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Work proposals e contatti generali; non è esplicitata una selezione di artisti.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Karmachina",
@@ -17009,7 +17367,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Profilo dello studio e contatto generale; vacancy non verificata.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "B612Studio",
@@ -17017,7 +17375,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Studio CGI advertising verificato; nessuna apertura recruiting esplicita.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Tokio Studio",
@@ -17025,7 +17383,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Post-produzione, VFX e AI confermati; nessuna candidatura esplicita verificata.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Hup.Studio",
@@ -17033,7 +17391,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Contatto generale; nessun invito specifico a candidarsi verificato.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Nerdo",
@@ -17041,7 +17399,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Profilo studio letto; canale recruiting da approfondire.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Studio Bozzetto",
@@ -17049,7 +17407,7 @@
         "category": "workItaly",
         "status": "TO_VERIFY",
         "result": "Studio e contatti generali; nessuna vacancy artistica verificata.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "MONOGRID",
@@ -17057,7 +17415,7 @@
         "category": "workItaly",
         "status": "ACCESS_ERROR",
         "result": "Pagina non restituisce contenuti utili; segnalazioni social AI Art Director da verificare.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Ditroit",
@@ -17065,7 +17423,7 @@
         "category": "workItaly",
         "status": "ACCESS_ERROR",
         "result": "Fonte controllata ma non recuperabile integralmente oggi; nessuna chiusura inferita senza prova.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Kortocircuito Video Production",
@@ -17073,7 +17431,7 @@
         "category": "WORK MILANO / ITALIA",
         "status": "SCANNED - OPPORTUNITY_CLOSED",
         "result": "Annuncio LinkedIn scaduto e reindirizzato alla ricerca generica; scheda chiusa.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Digital Bros",
@@ -17081,7 +17439,7 @@
         "category": "WORK MILANO / ITALIA",
         "status": "SCANNED - NO_MATCH",
         "result": "Senior 3D Artist Milano presente ma orientato videogame real-time; meno coerente delle priorità VFX/DMP/AI.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "22DOGS — Freelance Talent Pool",
@@ -17089,7 +17447,7 @@
         "category": "workItaly",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Freelance Talent Pool raggiungibile e attivo.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Parallelia — Careers",
@@ -17097,7 +17455,7 @@
         "category": "workItaly",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "AI Artist riconfermato tramite posting employer: Milano, €3.000–€4.000/mese, collaborazione freelance con Partita IVA.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Prada Group — Content Factory AI Editor",
@@ -17105,7 +17463,7 @@
         "category": "WORK MILANO / GENERATIVE AI",
         "status": "SCANNED - NEW_OPPORTUNITY",
         "result": "NEW MATCH: AI Editor full-time a Milano; strumenti Higgsfield, Seedance, Kling e Flora; RAL €40.000.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       }
     ],
     "workInternationalRemote": [
@@ -17115,7 +17473,7 @@
         "category": "workInternationalRemote",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "LIVE: Matte Painter remote/on-site ancora pubblicato.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Unit Image",
@@ -17123,7 +17481,7 @@
         "category": "workInternationalRemote",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Candidatura spontanea confermata e nuovo ruolo Artiste FX 2D & 3D rilevato sulla career page ufficiale.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "DNEG / Jobvite",
@@ -17131,7 +17489,7 @@
         "category": "workInternationalRemote",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "DMP Artist, AI Concept Artist, Gen AI Workflow Designer e ruoli environment restano pubblicati; Environment Surfacer oyKSAfwu è chiuso perché l’ATS reindirizza a error=404.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Framestore / Recruitee",
@@ -17139,7 +17497,7 @@
         "category": "workInternationalRemote",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Freelance CG Chicago talent pool ancora attivo; autorizzazione USA obbligatoria.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "RISE",
@@ -17147,7 +17505,7 @@
         "category": "workInternationalRemote",
         "status": "TO_VERIFY",
         "result": "Lettura parziale; verifica dei ruoli artistici non conclusa.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "ILM",
@@ -17155,7 +17513,7 @@
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Environment Supervisor rimosso: pagina Disney Careers 404 e ruolo assente dalla ricerca; Generalist DMP resta reperibile, altri endpoint non pienamente renderizzabili.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Weta FX",
@@ -17163,7 +17521,7 @@
         "status": "TO_VERIFY",
         "result": "Portale pubblico raggiungibile; elenco dinamico delle vacancy non leggibile.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Sony Pictures Imageworks",
@@ -17171,7 +17529,7 @@
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "LIVE: Matte Painter Vancouver ancora pubblicato.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Cinesite",
@@ -17179,7 +17537,7 @@
         "status": "TO_VERIFY",
         "result": "Pagina career leggibile, elenco dinamico non esposto.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Pixomondo",
@@ -17187,7 +17545,7 @@
         "status": "TO_VERIFY",
         "result": "Invito a candidature generiche; ATS Workable non leggibile.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Rodeo FX",
@@ -17195,7 +17553,7 @@
         "status": "TO_VERIFY",
         "result": "Pagina dinamica senza elenco leggibile.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Scanline / Eyeline",
@@ -17203,7 +17561,7 @@
         "status": "ACCESS_ERROR",
         "result": "Redirect Eyeline senza contenuto estraibile.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Important Looking Pirates",
@@ -17211,7 +17569,7 @@
         "status": "ACCESS_ERROR",
         "result": "Fonte controllata ma non recuperabile integralmente oggi; nessuna variazione di stato dedotta senza prova.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Goodbye Kansas",
@@ -17219,7 +17577,7 @@
         "status": "ACCESS_ERROR",
         "result": "Fonte controllata ma non recuperabile integralmente oggi; nessuna variazione di stato dedotta senza prova.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Platige Image",
@@ -17227,7 +17585,7 @@
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Senior Lighting Artist confermato; rilevato anche Unreal Engine FX Project Lead – Freelance con form attivo.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "DIGIC Pictures",
@@ -17235,7 +17593,7 @@
         "status": "ACCESS_ERROR",
         "result": "Fonte controllata ma non recuperabile integralmente oggi; nessuna variazione di stato dedotta senza prova.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Blur Studio",
@@ -17243,7 +17601,7 @@
         "status": "TO_VERIFY",
         "result": "Invito generico a contattare lo studio; endpoint candidatura non confermato.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Crafty Apes",
@@ -17251,7 +17609,7 @@
         "status": "ACCESS_ERROR",
         "result": "Fonte controllata ma non recuperabile integralmente oggi; nessuna variazione di stato dedotta senza prova.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Outpost VFX",
@@ -17259,7 +17617,7 @@
         "status": "TO_VERIFY",
         "result": "Pagina career leggibile ma elenco posizioni non esposto.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Union VFX",
@@ -17267,7 +17625,7 @@
         "status": "ACCESS_ERROR",
         "result": "Fonte controllata ma non recuperabile automaticamente oggi; nessuna chiusura dedotta.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "One of Us",
@@ -17275,7 +17633,7 @@
         "status": "ACCESS_ERROR",
         "result": "Fonte controllata ma non recuperabile integralmente oggi; nessuna variazione di stato dedotta senza prova.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Milk VFX",
@@ -17283,7 +17641,7 @@
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "CG Supervisor ancora pubblicato per Barcelona o London.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Blue Zoo",
@@ -17291,7 +17649,7 @@
         "status": "ACCESS_ERROR",
         "result": "Fonte controllata ma non recuperabile integralmente oggi; nessuna variazione di stato dedotta senza prova.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Spooki CG",
@@ -17299,7 +17657,7 @@
         "status": "ACCESS_ERROR",
         "result": "Fonte controllata ma non recuperabile integralmente oggi; nessuna variazione di stato dedotta senza prova.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Atmosphere Visual Effects",
@@ -17307,7 +17665,7 @@
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Digital Matte Painter remote ancora pubblicato con link Apply e email jobs.",
         "category": "WORK INTERNATIONAL / REMOTE",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Phantom FX",
@@ -17315,7 +17673,7 @@
         "category": "WORK INTERNATIONAL / DMP",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "LIVE: Digital Matte Paint Artist Mid/Senior ancora presente.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Magnopus",
@@ -17323,7 +17681,7 @@
         "category": "WORK INTERNATIONAL / GENERATIVE AI",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "LIVE sull’ATS Lever: AI Artist e AI Tech Artist, Los Angeles on-site.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Runware — Creative Engineer / AI Creative Technologist",
@@ -17331,7 +17689,7 @@
         "category": "WORK INTERNATIONAL / GENERATIVE AI",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "LIVE/TO_VERIFY form: titolo Creative Engineer / AI Creative Technologist ancora esposto dall’ATS.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Company 3 / Curated",
@@ -17339,7 +17697,7 @@
         "category": "workInternationalRemote",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "NEW MATCH: Digital Matte Painter (General Submission), Vancouver remote; talent pool futuro, form attivo, 45–69 CAD/ora.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Boosta / Honeytech",
@@ -17347,7 +17705,7 @@
         "category": "WORK INTERNATIONAL / GENERATIVE AI / 2D",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "NEW MATCH: AI Artist | 2D Illustrator freelance remoto; form Greenhouse attivo, localizzazione Remote, Ukraine da verificare per l’Italia.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "UMP Studio Careers",
@@ -17355,7 +17713,7 @@
         "category": "WORK INTERNATIONAL / REMOTE",
         "status": "SCANNED - OPPORTUNITIES_FOUND",
         "result": "147 posizioni ufficiali remote ricontrollate. Aggiunte 15 corrispondenze nelle scale Modeling, Roto/Prep e FX; mantenute distinte da Matte Painting ed Environment.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Black Kite Studios — Careers",
@@ -17363,7 +17721,7 @@
         "category": "WORK INTERNATIONAL / VFX / AI / DMP",
         "status": "SCANNED - NEW_OPPORTUNITIES",
         "result": "NEW MATCHES: Emerging Technology Artist hybrid e Junior DMP Artist onsite, entrambi a Londra.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "One Of Us — Workable",
@@ -17371,7 +17729,7 @@
         "category": "WORK INTERNATIONAL / VFX",
         "status": "SCANNED - NEW_OPPORTUNITIES",
         "result": "NEW MATCHES: Environment TD e Lighting TD a Londra; Environment mantenuto distinto dal DMP e dal 3D modeling generico.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Sapient Art — Senior AI/VFX Artists",
@@ -17379,7 +17737,23 @@
         "category": "WORK INTERNATIONAL / REMOTE / AI VFX",
         "status": "SCANNED - NEW_OPPORTUNITY",
         "result": "NEW MATCH: team senior AI/VFX remoto per lungometraggio live-action/AI 4K, contratto lungo fino al 2028.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
+      },
+      {
+        "name": "INDG — Generative AI Artist Fashion - Freelance",
+        "url": "https://jobs.indg.com/o/generative-ai-artist-fashion-freelance",
+        "category": "WORK INTERNATIONAL / REMOTE / GENERATIVE AI",
+        "status": "SCANNED - NEW_OPPORTUNITY",
+        "result": "NEW MATCH: freelance remoto per workflow ComfyUI e produzione immagini commerciali fashion/sportswear.",
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
+      },
+      {
+        "name": "INDG — CG Art Director (AI-Driven)",
+        "url": "https://jobs.indg.com/o/cg-art-director-ai-driven",
+        "category": "WORK INTERNATIONAL / REMOTE / CGI / AI",
+        "status": "SCANNED - NEW_OPPORTUNITY",
+        "result": "NEW MATCH: art direction CGI e AI-assistita, remoto o Amsterdam/Bucarest.",
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       }
     ],
     "art": [
@@ -17389,7 +17763,7 @@
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "CLOSED: scadenza del 18 settembre superata.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "European Media Art Platform (EMAP) — EMAP Residencies 2027",
@@ -17397,7 +17771,7 @@
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Call LIVE fino al 6 novembre alle 14:00 CET.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Tokyo Biennale — SOCIAL DIVE 2027",
@@ -17405,7 +17779,7 @@
         "category": "art",
         "status": "SCANNED - NO_VACANCY",
         "result": "SOCIAL DIVE 2027 chiusa: deadline 30 settembre 2026 alle 23:59 JST trascorsa.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Djerassi Resident Artists Program — 2027 Djerassi Resident Artists Program",
@@ -17413,7 +17787,7 @@
         "category": "art",
         "status": "SCANNED - NO_VACANCY",
         "result": "Call chiusa: la pagina ufficiale indicava candidature aperte fino al 9 ottobre 2026.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "České Budějovice 2028 / Ars Electronica — Ars Biologica ArtXScience Residency 2027–2028",
@@ -17421,7 +17795,7 @@
         "category": "art",
         "status": "SCANNED - NO_VACANCY",
         "result": "Ars Biologica: deadline ufficiale 28 settembre trascorsa; scheda chiusa nel feed.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "PhotoVogue / Condé Nast — Brave New Visions: Creativity as Rebellion",
@@ -17429,7 +17803,7 @@
         "category": "art",
         "status": "SCANNED - NEXT_WINDOW",
         "result": "Piattaforma chiusa fino a lunedì; prossima finestra 9 novembre 08:00–20:00 CET.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "W. Eugene Smith Memorial Fund — W. Eugene Smith Grant 2026",
@@ -17437,7 +17811,7 @@
         "category": "art",
         "status": "SCANNED - NO_VACANCY",
         "result": "CLOSED: Picter ufficiale indica la call chiusa dopo la deadline del 12 ottobre 23:59 ET (13 ottobre 05:59 Europe/Rome).",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Singapore Art Museum — Open Call: Cycle 4 (2027/2028)",
@@ -17445,7 +17819,7 @@
         "category": "art",
         "status": "SCANNED - NO_VACANCY",
         "result": "Cycle 4 chiusa: deadline 30 settembre 2026 alle 23:59 GMT+8 trascorsa.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Ars Electronica — fonte precedente",
@@ -17453,7 +17827,7 @@
         "category": "art",
         "status": "ACCESS_ERROR",
         "result": "Fonte controllata ma non recuperabile integralmente oggi; nessuna variazione di stato dedotta senza prova.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Wave Farm",
@@ -17461,7 +17835,7 @@
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Research and Production Program 2027 LIVE: residenze/fellowship, deadline 1 dicembre 23:59 EST.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Squeaky Wheel",
@@ -17469,7 +17843,7 @@
         "category": "art",
         "status": "TO_VERIFY",
         "result": "Workspace Residency con requisiti fiscali USA; ammissibilità personale non verificata.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "TransArtists / DutchCulture",
@@ -17477,7 +17851,7 @@
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Discovery: Camargo, Medialab, HBK, Ses12naus, Rossonove, Tate e Skowhegan; fonti primarie seguite.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Casa degli Artisti",
@@ -17485,7 +17859,7 @@
         "category": "art",
         "status": "SCANNED - NO_VACANCY",
         "result": "ARIMO II chiusa: deadline ufficiale 30 settembre 2026 trascorsa.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Camargo Foundation",
@@ -17493,7 +17867,7 @@
         "category": "art",
         "status": "TO_VERIFY",
         "result": "Submittable conferma modulo temporaneamente inaccessibile; nuova deadline verrà fissata alla riapertura, candidature email non accettate.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Medialab Matadero",
@@ -17501,7 +17875,7 @@
         "category": "art",
         "status": "ACCESS_ERROR",
         "result": "Fonte controllata ma non recuperabile integralmente oggi; nessuna variazione di stato dedotta senza prova.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "HBK Braunschweig",
@@ -17509,7 +17883,7 @@
         "category": "art",
         "status": "SCANNED - NO_VACANCY",
         "result": "Braunschweig Projects 2027/2028 chiusa: deadline ufficiale 4 ottobre 2026 alle 23:59 trascorsa.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Fundación Ses12naus",
@@ -17517,7 +17891,7 @@
         "category": "art",
         "status": "ACCESS_ERROR",
         "result": "Fonte controllata ma non recuperabile automaticamente oggi; nessuna chiusura dedotta.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Rossonove",
@@ -17525,7 +17899,7 @@
         "category": "art",
         "status": "SCANNED - CLOSED",
         "result": "Deadline ufficiale del 31 ottobre superata; call chiusa.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Tate / Delfina — Brooks",
@@ -17533,7 +17907,7 @@
         "category": "art",
         "status": "SCANNED - NO_MATCH",
         "result": "Fellowship curatoriali su Carrington o supported studios; priorità ridotta rispetto a produzione visuale.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Skowhegan",
@@ -17541,7 +17915,7 @@
         "category": "art",
         "status": "SCANNED - NO_VACANCY",
         "result": "CLOSED: il sito ufficiale dichiara conclusa la candidatura 2027.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Jan van Eyck",
@@ -17549,7 +17923,7 @@
         "category": "art",
         "status": "ACCESS_ERROR",
         "result": "Fonte controllata ma non recuperabile integralmente oggi; nessuna chiusura inferita senza prova.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Rijksakademie",
@@ -17557,7 +17931,7 @@
         "category": "art",
         "status": "ACCESS_ERROR",
         "result": "Fonte controllata ma non recuperabile integralmente oggi; nessuna chiusura inferita senza prova.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Gasworks",
@@ -17565,7 +17939,7 @@
         "category": "art",
         "status": "ACCESS_ERROR",
         "result": "Fonte controllata ma non recuperabile integralmente oggi; nessuna variazione di stato dedotta senza prova.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "The Print Center",
@@ -17573,7 +17947,7 @@
         "category": "art",
         "status": "SCANNED - NO_VACANCY",
         "result": "Concorso fotografia/printmaking scaduto il 18 giugno 2026.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "NYFA Opportunities",
@@ -17581,7 +17955,7 @@
         "category": "art",
         "status": "TO_VERIFY",
         "result": "Filtri pubblici leggibili ma risultati dinamici non estratti; non è prova di assenza di call.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "On the Move",
@@ -17589,7 +17963,7 @@
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Database discovery: EMAP e HBK già verificati; Kino Úsmev segnalato per approfondimento.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Res Artis",
@@ -17597,7 +17971,7 @@
         "category": "art",
         "status": "ACCESS_ERROR",
         "result": "Fonte controllata ma non recuperabile integralmente oggi; nessuna variazione di stato dedotta senza prova.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Viafarini",
@@ -17605,7 +17979,7 @@
         "category": "art",
         "status": "TO_VERIFY",
         "result": "Programma/residenti pubblicati; invio e apertura candidatura corrente non confermati.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Fondazione Bevilacqua La Masa",
@@ -17613,7 +17987,7 @@
         "category": "art",
         "status": "ACCESS_ERROR",
         "result": "Fonte controllata ma non recuperabile integralmente oggi; nessuna variazione di stato dedotta senza prova.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "DG Creatività Contemporanea",
@@ -17621,7 +17995,7 @@
         "category": "art",
         "status": "SCANNED - NO_VACANCY",
         "result": "Premio New York scaduto il 18 settembre; nessuna call individuale visuale pertinente verificata sulla pagina letta.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Fondazione Memmo",
@@ -17629,7 +18003,7 @@
         "category": "art",
         "status": "TO_VERIFY",
         "result": "Pagina attività consultata; dettagli bando Gasworks 2027 non confermati sulla primaria.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Spazio Berlendis / Marignana Arte",
@@ -17637,7 +18011,7 @@
         "category": "ART ITALIA",
         "status": "SCANNED - NO_VACANCY",
         "result": "Call chiusa: deadline ufficiale 8 ottobre 2026 alle 23:59 superata.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Fonderia 20.9",
@@ -17645,7 +18019,7 @@
         "category": "ART ITALIA",
         "status": "SCANNED - NO_VACANCY",
         "result": "VAP 2026 chiusa: deadline ufficiale 30 settembre 2026 alle 23:59 CET trascorsa.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "ZADIK, Universität zu Köln",
@@ -17653,7 +18027,7 @@
         "category": "ART EUROPA",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "CLOSED: deadline ufficiale 15 ottobre 2026 superata.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Premio Castelfiorentino per le Arti",
@@ -17661,7 +18035,7 @@
         "category": "ART ITALIA / FOTOGRAFIA",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "CLOSED: il portale Picter ufficiale mostra stato Closed.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Instagram public discovery (4 profili GRIM)",
@@ -17669,13 +18043,13 @@
         "category": "PUBLIC DISCOVERY",
         "status": "ACCESS_ERROR",
         "result": "Fonte controllata ma non recuperabile integralmente oggi; nessuna variazione di stato dedotta senza prova.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Studio Zookeeper",
         "url": "https://zookeeper.nl/zookeeper-open-call-beeldend-kunstenaar-ontwerper-artist-in-residence/",
         "category": "art",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00",
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00",
         "status": "SCANNED - NO_VACANCY",
         "result": "Open Call #13 chiusa: deadline ufficiale 30 settembre 2026 trascorsa."
       },
@@ -17683,7 +18057,7 @@
         "name": "Museum Rijswijk",
         "url": "https://museumrijswijk.nl/open-call-textiel-biennale",
         "category": "art",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00",
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00",
         "status": "ACCESS_ERROR",
         "result": "Fonte controllata ma non recuperabile integralmente oggi; nessuna variazione di stato dedotta senza prova."
       },
@@ -17693,7 +18067,7 @@
         "category": "ART / MOBILITY / CREATIVE EUROPE",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Call rolling ancora LIVE; prossima scadenza mensile 30 novembre 2026.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "COCA PROJECT",
@@ -17701,7 +18075,7 @@
         "category": "ART / FOTOGRAFIA / STREET ART",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "LIVE con cautela: pagina e form ufficiali indicano deadline 26 marzo 2027 e preselezione gratuita; il regolamento collegato conserva le vecchie date e la quota di 67 EUR solo in caso di selezione.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "HIAP — Learning Materials International Artist in Residence 2027",
@@ -17709,7 +18083,7 @@
         "category": "ART / RESIDENCY / MATERIAL PRACTICE",
         "status": "SCANNED - OPPORTUNITY_CLOSED",
         "result": "Call chiusa: deadline 26 ottobre superata e pagina ufficiale ora classificata fra le Past Open Calls.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "European Commission JRC — Decoding Depression",
@@ -17717,7 +18091,7 @@
         "category": "art",
         "status": "SCANNED - NO_VACANCY",
         "result": "CLOSED: deadline ufficiale del 18 ottobre superata.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Art Explora / Cité internationale des arts",
@@ -17725,7 +18099,7 @@
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_CLOSED",
         "result": "CLOSED: finestra candidature 2027 terminata il 30 ottobre 2026; nessuna proroga ufficiale.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "KIBLA / OASis Project",
@@ -17733,7 +18107,7 @@
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_CLOSED",
         "result": "CLOSED: deadline ufficiale 19 ottobre 2026 superata.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "European Commission DG RTD / JRC — Shifting Shores",
@@ -17741,7 +18115,7 @@
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "LIVE: Shifting Shores, deadline 24 ottobre 23:59 Bruxelles, budget totale €15.000.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Fotografia Calabria Festival",
@@ -17749,7 +18123,7 @@
         "category": "ART ITALIA / FOTOGRAFIA",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "FCF Award 2026 LIVE: deadline 15 novembre; fee 35 EUR; premio 2.000 EUR + possibile pubblicazione retribuita 1.000 EUR.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Banff Centre for Arts and Creativity",
@@ -17757,7 +18131,7 @@
         "category": "ART / RESIDENCY / SOUND / ECOLOGY",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Sounding Like a Mountain LIVE: deadline 18 novembre MST; costo partecipante 4.476,78 CAD dopo scholarship standard.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Vizcaya Museum and Gardens — Arts Residency + Commission 2027",
@@ -17765,7 +18139,7 @@
         "category": "ART / RESIDENCY / COMMISSION",
         "status": "SCANNED - NO_MATCH",
         "result": "Nuova residency verificata ma riservata ad artisti visuali residenti nel South Florida; esclusa per incompatibilità geografica.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Villa Medici – Académie de France à Rome",
@@ -17773,7 +18147,7 @@
         "category": "ART ITALIA / RESIDENCY",
         "status": "ACCESS_ERROR",
         "result": "Fonte controllata ma non recuperabile automaticamente oggi; nessuna chiusura dedotta.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "PhotoVogue Mondays",
@@ -17781,7 +18155,7 @@
         "category": "ART / FOTOGRAFIA / CULTURA VISIVA",
         "status": "SCANNED - OPPORTUNITY_CLOSED",
         "result": "Finestra settimanale del 26 ottobre chiusa; prossima finestra prevista lunedì 2 novembre 08:00–20:00.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Kadoorie Farm and Botanic Garden — Artist-in-Residence 2027–2028",
@@ -17789,7 +18163,7 @@
         "category": "art",
         "status": "SCANNED - CLOSED",
         "result": "Periodo candidature concluso il 1 novembre.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "CreArt 3.0 / Oulu — We Are All Role Models",
@@ -17797,7 +18171,7 @@
         "category": "ART / MEDIA ART / RESIDENCY",
         "status": "SCANNED - NO_MATCH",
         "result": "Call LIVE ma non inserita: ammissibilità limitata alle città/partner CreArt; per l’Italia richiede nascita, residenza o base professionale a Venezia.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Essere Residency 2027",
@@ -17805,7 +18179,7 @@
         "category": "ART / RESIDENCY / ITALIA",
         "status": "SCANNED - NO_MATCH",
         "result": "Call LIVE ma de-prioritizzata e non inserita: costo €3.400–€3.900, viaggio/materiali esclusi; borse solo parziali da €1.000.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Matsu Biennial 2027",
@@ -17813,7 +18187,7 @@
         "category": "ART / SITE-SPECIFIC / PUBLIC ART",
         "status": "SCANNED - OPPORTUNITY_CLOSED",
         "result": "CLOSED: deadline ufficiale 30 ottobre 2026 ore 17:00 GMT+8 superata.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "SURF Artist-in-Residence 2027",
@@ -17821,7 +18195,7 @@
         "category": "ART / ART & SCIENCE / RESIDENCY",
         "status": "SCANNED - CLOSED",
         "result": "Deadline 1 novembre 23:59 Mountain Time superata; candidature tardive escluse.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "TRACES Art & Science Residency 2027",
@@ -17829,7 +18203,7 @@
         "category": "ART / ART & SCIENCE / RESIDENCY",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Nuova residenza LIVE; deadline 22 novembre, CHF 2.000/mese + viaggio e alloggio.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "ExtrArtis — Call for Artists 2026",
@@ -17837,7 +18211,7 @@
         "category": "ART ITALIA / RESIDENCY",
         "status": "SCANNED - OPPORTUNITY_CLOSED",
         "result": "CLOSED: deadline ufficiale 8 novembre superata.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Experimental Photo Festival — Residency 2027",
@@ -17845,7 +18219,7 @@
         "category": "ART / PHOTOGRAPHY / RESIDENCY",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "UPDATED: deadline prorogata al 23 novembre 2026; form ufficiale attivo.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "IN SITU PLATFORM Open Call #3",
@@ -17853,7 +18227,7 @@
         "category": "ART / PUBLIC SPACE / CREATIVE EUROPE",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "NEW LIVE: supporto per 60 artisti emergenti nello spazio pubblico; deadline 9 dicembre 2026, fee laboratorio €1.500 + spese principali coperte.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "The PASEO Biennial 2027",
@@ -17861,7 +18235,7 @@
         "category": "art",
         "status": "SCANNED - NEW_OPPORTUNITY",
         "result": "Call internazionale per installazione, proiezione e performance pubblica; deadline prorogata al 15 novembre, stipend 500–3.000 USD e fino a 15.000 USD per progetti maggiori.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Leitrim Sculpture Centre",
@@ -17869,7 +18243,7 @@
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_CLOSED",
         "result": "CLOSED: Artists Exhibition Residency scaduta a mezzanotte del 9 novembre; TDR Programme resta distinto e aperto fino al 15 novembre.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Schaufler Lab@TU Dresden",
@@ -17877,7 +18251,7 @@
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_CLOSED",
         "result": "CLOSED: deadline ufficiale del 9 novembre 2026 superata.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Villa Pérochon",
@@ -17885,7 +18259,7 @@
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_ACTIVE",
         "result": "Residenza fotografica internazionale con spese coperte; deadline 15 novembre.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "ECCOM — WONDER",
@@ -17893,7 +18267,7 @@
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_ACTIVE",
         "result": "Residenza a Merano: €3.000 fee + €1.000 produzione; deadline 6 dicembre.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Kimonos Art Center",
@@ -17901,7 +18275,7 @@
         "category": "art",
         "status": "SCANNED - OPPORTUNITY_ACTIVE",
         "result": "Episkeptes: alloggio e fino a €1.500; deadline 16 novembre, fee €25.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Democracy Foundation — European Dream",
@@ -17909,7 +18283,7 @@
         "category": "art",
         "status": "SCANNED - NEW_OPPORTUNITY",
         "result": "Residenza partecipativa a Kuldīga: alloggio, €1.000 vita + fino a €1.000 progetto; deadline 15 novembre.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Sixi Museum",
@@ -17917,7 +18291,7 @@
         "category": "art",
         "status": "SCANNED - NEW_OPPORTUNITY",
         "result": "Residenza internazionale trimestrale a Nanchino con viaggio, alloggio, studio e materiali; deadline 15 novembre; form da verificare.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Montpellier 2028 / Abbaye d’Aniane",
@@ -17925,7 +18299,7 @@
         "category": "art",
         "status": "SCANNED - NEW_OPPORTUNITY",
         "result": "Otto settimane, €6.000 per artista e alloggio; deadline 16 novembre.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Maja Arte Contemporanea — Una Residenza tutta per sé",
@@ -17933,7 +18307,7 @@
         "category": "art",
         "status": "SCANNED - NO_MATCH",
         "result": "Esclusa: riservata a donne fotografe nate dal 1 gennaio 1988.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "EMAP — European Media Art Platform",
@@ -17941,7 +18315,7 @@
         "category": "ART / MEDIA ART / RESIDENCY",
         "status": "SCANNED - OPPORTUNITY_CLOSED",
         "result": "CLOSED: deadline ufficiale 6 novembre 2026 ore 14:00 CET superata; il portale annuncia la prossima call per settembre 2027.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Accademia Mutamenti — Il Castello dei Mutamenti",
@@ -17949,7 +18323,7 @@
         "category": "ART ITALIA / RESIDENCY / DIGITAL ART",
         "status": "SCANNED - NEW_OPPORTUNITY",
         "result": "NEW LIVE: residenza di sei mesi per under 36, 500 EUR/mese e alloggio; deadline 30 novembre.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "B-MURALS — Curatorial Open Call 2027",
@@ -17957,7 +18331,7 @@
         "category": "ART / URBAN ART / CURATORIAL",
         "status": "SCANNED - NEW_OPPORTUNITY",
         "result": "NEW LIVE: call curatoriale per programmazione 2027; deadline 15 dicembre; dettagli applicativi da verificare nel PDF Drive.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Oriente Occidente — Open Call 2027",
@@ -17965,7 +18339,7 @@
         "category": "ART / PERFORMING ARTS / RESIDENCY",
         "status": "SCANNED - NO_MATCH",
         "result": "Call LIVE ma non inserita: limitata a performing arts con ricerca sul corpo e movimento.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "EUniWell — Living Cities Street Poster Art",
@@ -17973,7 +18347,7 @@
         "category": "ART / POSTER / URBAN CULTURE",
         "status": "SCANNED - NO_MATCH",
         "result": "Call LIVE ma non inserita: riservata alle comunità universitarie EUniWell; ammissibilità personale non verificata.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "EMAF 2027 — Call for Entries",
@@ -17981,7 +18355,7 @@
         "category": "ART / MEDIA ART / FILM",
         "status": "SCANNED - NEW_OPPORTUNITY",
         "result": "NEW LIVE: call internazionale gratuita Film, Installation ed Expanded; chiusura a 2.200 invii o entro il 15 dicembre 2026.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Greylight Projects / schrit_tmacher Residency 2027",
@@ -17989,7 +18363,15 @@
         "category": "ART / VISUAL ART / TECHNOLOGY / RESIDENCY",
         "status": "SCANNED - NEW_OPPORTUNITY",
         "result": "NEW LIVE: residenza di tre mesi a Heerlen, €900/mese + €500 presentazioni, studio/alloggio; deadline 15 novembre.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
+      },
+      {
+        "name": "ARCHAIVE — International Open Call for Artists 2026/27",
+        "url": "https://archaive.eu/news/international-open-call-for-artists/",
+        "category": "ART / GENERATIVE AI / MEDIA ART / RESIDENCY",
+        "status": "SCANNED - NEW_OPPORTUNITY",
+        "result": "NEW LIVE: 18 residenze, inclusa sede MEET Milano, artist fee €5.000; deadline 7 dicembre.",
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       }
     ],
     "graffiti": [
@@ -17999,7 +18381,7 @@
         "category": "graffiti",
         "status": "SCANNED - NO_VACANCY",
         "result": "Call 2026 scaduta il 14 agosto; non inserita tra le LIVE.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Islip Arts Council",
@@ -18007,7 +18389,7 @@
         "category": "GRAFFITI",
         "status": "ACCESS_ERROR",
         "result": "Fonte controllata ma non recuperabile integralmente oggi; nessuna chiusura inferita senza prova.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Meeting of Styles — rete",
@@ -18015,7 +18397,7 @@
         "category": "graffiti",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "LIVE: artist registration permanente e nuova International Mural Challenge 2026 segnalata dalla rete.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Meeting of Styles Senegal",
@@ -18023,7 +18405,7 @@
         "category": "GRAFFITI INTERNATIONAL",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "LIVE: artist registration permanente e nuova International Mural Challenge 2026 segnalata dalla rete.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Street Art Calls",
@@ -18031,7 +18413,7 @@
         "category": "graffiti",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Discovery Waterford 2027 poi verificata sulla fonte primaria; NUMU scaduta.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Open Brief",
@@ -18039,7 +18421,7 @@
         "category": "graffiti",
         "status": "ACCESS_ERROR",
         "result": "Pagina pubblica caricata; elenco brief non caricato (JavaScript).",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Meeting of Styles Oslo",
@@ -18047,7 +18429,7 @@
         "category": "graffiti",
         "status": "SCANNED - NO_VACANCY",
         "result": "Pagina dichiara open call chiusa; evento luglio già trascorso.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "de Appel — de Nieuwe Meent",
@@ -18055,7 +18437,7 @@
         "category": "graffiti",
         "status": "SCANNED - NO_VACANCY",
         "result": "Mural call scaduta 15 settembre.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Jamestown Arts Festival",
@@ -18063,7 +18445,7 @@
         "category": "graffiti",
         "status": "SCANNED - NO_VACANCY",
         "result": "Competizione scaduta 14 agosto nonostante pagina generale dica aperta; EOI grandi muri non qualificata come commissione certa.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Strassenkunstfestival",
@@ -18071,7 +18453,7 @@
         "category": "graffiti",
         "status": "SCANNED - NO_VACANCY",
         "result": "Call 2026 chiusa; 2027 prevista da dicembre, non ancora aperta.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Stradedarts",
@@ -18079,7 +18461,7 @@
         "category": "graffiti",
         "status": "TO_VERIFY",
         "result": "Rete emersa da discovery pubblica collegata a un profilo pubblico; sito descrive attività, nessuna candidatura specifica aperta confermata.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "INWARD",
@@ -18087,7 +18469,7 @@
         "category": "graffiti",
         "status": "SCANNED - NO_VACANCY",
         "result": "News recenti di progetti già svolti; nessuna call aperta nella pagina consultata.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "SpitJam",
@@ -18095,7 +18477,7 @@
         "category": "graffiti",
         "status": "ACCESS_ERROR",
         "result": "Sito non recuperabile; PDF 2025 emerso in discovery non usato come call attuale.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Upfest",
@@ -18103,7 +18485,7 @@
         "category": "graffiti",
         "status": "SCANNED - NO_VACANCY",
         "result": "Weston Wallz luglio 2026 già svolto; nessuna nuova application nella pagina consultata.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "B-MURALS",
@@ -18111,7 +18493,7 @@
         "category": "graffiti",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Registrazione artisti per workshop, mediazione e progetti comunitari aperta; Residenze B-MURALS 2027 scadute il 15 settembre 2026.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Wallspot",
@@ -18119,7 +18501,7 @@
         "category": "graffiti",
         "status": "ACCESS_ERROR",
         "result": "Fonte controllata ma non recuperabile integralmente oggi; nessuna variazione di stato dedotta senza prova.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Nuart Aberdeen",
@@ -18127,7 +18509,7 @@
         "category": "graffiti",
         "status": "ACCESS_ERROR",
         "result": "Fonte controllata ma non recuperabile integralmente oggi; nessuna variazione di stato dedotta senza prova.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "The Walls Project — Waterford",
@@ -18135,7 +18517,7 @@
         "category": "graffiti",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "LIVE: Waterford Walls 2027, form e Submit verificati; deadline non pubblicata.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "City of Miami Beach",
@@ -18143,7 +18525,7 @@
         "category": "graffiti",
         "status": "SCANNED - NO_VACANCY",
         "result": "Portale ufficiale Submittable: 'There are presently no open calls for submissions'. G5 chiusa.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "UP Art Studio — Big Walls Big Dreams",
@@ -18151,7 +18533,7 @@
         "category": "graffiti",
         "status": "ACCESS_ERROR",
         "result": "Fonte controllata ma non recuperabile integralmente oggi; nessuna variazione di stato dedotta senza prova.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Aidez Nous à Aider — International Mural Challenge 2026",
@@ -18159,7 +18541,7 @@
         "category": "graffiti",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "NEW LIVE: murale su migrazione e border violence; deadline 18 dicembre 2026; nessun artist fee pubblicato.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "MArteLive — Concorso Street Art",
@@ -18167,7 +18549,7 @@
         "category": "graffiti",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "Iscrizioni 2027–2028 aperte: form e pagamento online verificati; quota 5 € singolo/duo o 10 € gruppo.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Utah Arts Festival — Graffiti + Mural Artists",
@@ -18175,7 +18557,7 @@
         "category": "GRAFFITI / MURAL / FESTIVAL",
         "status": "SCANNED - NEW_OPPORTUNITY",
         "result": "NEW LIVE: deadline 26 febbraio 2027; 150 USD e materiali spray forniti; form ufficiale attivo.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "City of Santa Fe — Public Artist Roster",
@@ -18183,7 +18565,7 @@
         "category": "GRAFFITI / MURAL / PUBLIC ART",
         "status": "SCANNED - NEW_OPPORTUNITY",
         "result": "NEW LIVE: roster biennale per muralisti e street artist; deadline 15 novembre 23:59 MST; budget variabile per progetto.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       },
       {
         "name": "Aidez Nous à Aider — Global Mural Challenge 2026",
@@ -18191,7 +18573,7 @@
         "category": "GRAFFITI / MURAL / HUMAN RIGHTS",
         "status": "SCANNED - OPPORTUNITY_FOUND",
         "result": "NEW: call mondiale per muralisti e writer, deadline 18 dicembre.",
-        "lastCheckedAt": "2026-11-12T08:03:37+01:00"
+        "lastCheckedAt": "2026-11-13T07:49:00+01:00"
       }
     ]
   }
