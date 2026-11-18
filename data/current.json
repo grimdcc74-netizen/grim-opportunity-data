@@ -16445,12 +16445,12 @@
       "country": "Paesi Bassi / Remoto",
       "city": "Amsterdam",
       "firstSeen": "2026-11-13",
-      "lastVerifiedAt": "2026-11-15T07:42:23+01:00",
+      "lastVerifiedAt": "2026-11-18T07:55:28+01:00",
       "liveStatus": "LIVE",
       "tag": "JOB",
       "isNew": false,
       "verification": "PRIMARY",
-      "sourceCheckedAt": "2026-11-15T07:42:23+01:00",
+      "sourceCheckedAt": "2026-11-18T07:55:28+01:00",
       "lastChangedAt": "2026-11-13T07:49:00+01:00",
       "applicationStatus": "OPEN",
       "changeType": "UNCHANGED",
@@ -17806,18 +17806,18 @@
     {
       "area": "work",
       "score": 5,
-      "country": null,
-      "city": null,
+      "country": "Argentina",
+      "city": "Buenos Aires",
       "firstSeen": "2026-11-17",
-      "lastVerifiedAt": "2026-11-17T07:47:17+01:00",
+      "lastVerifiedAt": "2026-11-18T07:55:28+01:00",
       "liveStatus": "LIVE",
       "tag": "JOB",
       "isNew": false,
       "verification": "PRIMARY",
-      "sourceCheckedAt": "2026-11-17T07:47:17+01:00",
-      "lastChangedAt": "2026-11-17T07:47:17+01:00",
+      "sourceCheckedAt": "2026-11-18T07:55:28+01:00",
+      "lastChangedAt": "2026-11-18T07:55:28+01:00",
       "applicationStatus": "OPEN",
-      "changeType": "UNCHANGED",
+      "changeType": "UPDATED",
       "sourceType": "EMPLOYER",
       "applicationMethod": "FORM",
       "applicationPortal": "WPP Production Careers / Greenhouse",
@@ -17850,8 +17850,8 @@
       "displayOrder": 201,
       "title": "AI Designer",
       "org": "WPP Production",
-      "location": "Sede non indicata nella pagina pubblica; modalità ibrida",
-      "remotePolicy": "Hybrid — circa 4 giorni a settimana in ufficio",
+      "location": "Buenos Aires, Argentina",
+      "remotePolicy": "Hybrid — Buenos Aires, circa 4 giorni a settimana in ufficio.",
       "employmentType": "Full-time",
       "category": "Generative AI / Art Direction / Advertising Post-production",
       "publishedAt": null,
@@ -17920,7 +17920,7 @@
       "priorityScore": 5,
       "applicationReadiness": "HIGH",
       "fitReason": "Coincidenza diretta con AI generativa, art direction, storyboard, motion graphics, Adobe Suite e advertising.",
-      "changeSummary": null,
+      "changeSummary": "Località ufficiale verificata: Buenos Aires, Argentina; modello ibrido con circa quattro giorni a settimana in ufficio.",
       "verificationNotes": "Pagina employer e modulo di candidatura attivo verificati; titolo ufficiale AI Designer, descrizione operativa AI Artist. La sede non è esposta nell’estrazione pubblica."
     },
     {
@@ -18625,7 +18625,7 @@
       "activeGraffiti": 9,
       "newItems": 1,
       "closedItems": 0,
-      "updatedItems": 0
+      "updatedItems": 1
     }
   ],
   "scanLog": {
@@ -18687,6 +18687,22 @@
         "category": "workInternationalRemote",
         "status": "SCANNED - NO_MATCH",
         "result": "Senior Nuke Compositor e Nuke Artist rilevati; profilo meno prioritario rispetto a DMP, environment e AI.",
+        "lastCheckedAt": "2026-11-18T07:55:28+01:00"
+      },
+      {
+        "name": "WPP Production",
+        "url": "https://www.wppproduction.com/careers/job/ai-designer-6238882004?gh_jid=6238882004",
+        "category": "workInternationalRemote",
+        "status": "SCANNED - OPPORTUNITY_FOUND",
+        "result": "AI Designer riconfermato; località ufficiale corretta a Buenos Aires, Argentina, modalità ibrida.",
+        "lastCheckedAt": "2026-11-18T07:55:28+01:00"
+      },
+      {
+        "name": "INDG",
+        "url": "https://jobs.indg.com/o/generative-ai-artist-fashion-freelance/c/new",
+        "category": "workInternationalRemote",
+        "status": "SCANNED - OPPORTUNITY_FOUND",
+        "result": "Generative AI Artist Fashion freelance remoto riconfermato; form ufficiale attivo con CV e portfolio obbligatori.",
         "lastCheckedAt": "2026-11-18T07:55:28+01:00"
       }
     ],
